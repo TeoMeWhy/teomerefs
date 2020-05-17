@@ -1,42 +1,50 @@
 # Teo Me Refs
 
-Repositório aberto para divulgação de material em Data Science, Programação e Estatística.
+Repositório para divulgação de material em Data Science, Programação e Estatística.
 
 * [Blogs](#blogs--sites)
 * [Canais](#canais)
 * [Livros](#livros)
+* [Perfis](#perfis)
 
 ## Blogs & Sites
 |Site|Tema|
 |---|---|
-|[www.estatsite.com.br](http://estatsite.com.br/)|Data Science|
-|[www.portalaction.com.br](http://www.portalaction.com.br/)|Estatística|
-|[www.oestatistico.com.br](https://oestatistico.com.br/)|Estatística|
+|[asn.rocks](https://asn.rocks/)|Estatística de Data Science|
+|[estatsite.com.br](http://estatsite.com.br/)|Data Science|
+|[portalaction.com.br](http://www.portalaction.com.br/)|Estatística|
+|[oestatistico.com.br](https://oestatistico.com.br/)|Estatística|
 
-
-
+**[⬆ Voltar ao início](#teo-me-refs)**
 ## Canais
 
 * [Twitch](#twitch)
 * [YouTube](#youtube)
 
+**[⬆ Voltar ao início](#teo-me-refs)**
 ### Twitch
 
 |Canal|Tema|
 |---|---|
+|[ana_geek](https://www.twitch.tv/ana_geek)|Desenvolvimento de Games|
 |[codeshow](https://www.twitch.tv/codeshow)|Desenvolvimento de Software|
 |[codigofalado](https://www.twitch.tv/codigofalado)|Desenvolvimento Web|
+|[dininho](https://www.twitch.tv/dininho)|Desenvolvimento de Games|
+|[grsoares](https://www.twitch.tv/grsoares)|IA e Desenvolvimento de Software|
 |[marcobrunodev](https://www.twitch.tv/marcobrunodev/)|Desenvolvimento Web|
-|[nomadcodemist](https://www.twitch.tv/nomadcodemist)|Desenvolvimento Web
-|[o_gabsferreira](https://www.twitch.tv/o_gabsferreira/)|Desenvolvimento Web e Data Science
+|[nomadcodemist](https://www.twitch.tv/nomadcodemist)|Desenvolvimento Web|
+|[o_gabsferreira](https://www.twitch.tv/o_gabsferreira/)|Data Science Desenvolvimento Web|
 |[teomewhy](https://www.twitch.tv/teomewhy)|Data Science|
 
+**[⬆ Voltar ao início](#teo-me-refs)**
 ### YouTube
 
 |Canal|Tema|
 |---|---|
+|[ASN.Rocks](https://www.youtube.com/channel/UCKkLm58oeFM77_MwfO06Mwg)|Estatística e Data Science|
 |[Azeiro Businees](https://www.youtube.com/channel/UCfTVUc_w9qJ-eLdeIQUynnw?fbclid=IwAR0hAm29c2O10OAPb5U-JLQ6rZam508oOoAJXmgCVx3t_ZlpksNDj_o37N4)|BI|
 |[Canal do Yukio](https://www.youtube.com/channel/UCZDVnGEyggjuo2kgpmXdzGA?fbclid=IwAR30d4LHLF0qridCUjaloZDg1HSNVtk_hzbof7ZY2yuR-vueEfi_U-AzC_Q)|Data Science|
+|[CodeShow](https://www.youtube.com/user/brunovegan)|Desenvolvimento de Software|
 |[Eduardo Mendes](https://www.youtube.com/user/mendesesduardo)|Desenvolvimento de Software|
 |[EstaTiDados](https://www.youtube.com/channel/UC4jROkPjTvnXRkuo2GAwKXw)|Data Science|
 |[Fábio Akita](https://www.youtube.com/channel/UCib793mnUOhWymCh2VJKplQ?fbclid=IwAR0UKydTeZa8GIz0H5qAgBPRD502kj9ZHFJesVUuUjp7c5QKE7m_3yBaQeM)|Desenvolvimento de Software|
@@ -48,8 +56,9 @@ Repositório aberto para divulgação de material em Data Science, Programação
 |[Seja Um Data Scientist](https://www.youtube.com/channel/UCar5Cr-pVz08GY_6I3RX9bA)|Data Science|
 |[Sigmoidal](https://www.youtube.com/user/darknessdobr)|Data Science|
 |[Téo Me Why](https://www.youtube.com/channel/UC-Xa9J9-B4jBOoBNIHkMMKA)|Data Science|
+|[Universo Programado](https://www.youtube.com/channel/UCf_kacKyoRRUP0nM3obzFbg)|IA e Desenvolvimento de Software|
 
-
+**[⬆ Voltar ao início](#teo-me-refs)**
 ## Livros
 
 * [Banco de dados](#banco-de-dados)
@@ -59,12 +68,14 @@ Repositório aberto para divulgação de material em Data Science, Programação
 * [Projetos e Equipes](#projetos-e-equipes)
 * [Utilitários](#utilitários)
 
+**[⬆ Voltar ao início](#teo-me-refs)**
 ### Banco de dados
 
 [Introdução à Linguagem SQL: Abordagem Prática Para Iniciantes](https://www.amazon.com.br/Introdução-Linguagem-SQL-Abordagem-Iniciantes/dp/8575225014/ref=sr_1_1?__mk_pt_BR=ÅMÅŽÕÑ&keywords=sql+introdução&qid=1570312414&sr=8-1)
 
 [Introdução ao Mongodb](https://www.amazon.com.br/Introdu%C3%A7%C3%A3o-ao-Mongodb-David-Hows/dp/8575224220/ref=sr_1_1?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=introdu%C3%A7%C3%A3o+ao+mongodb&qid=1570313994&sr=8-1)
 
+**[⬆ Voltar ao início](#teo-me-refs)**
 ### Estatística
 
 [Análise de Sobrevivência Aplicada ](https://www.amazon.com.br/An%C3%A1lise-Sobreviv%C3%AAncia-Aplicada-Ant%C3%B4nio-Colosimo/dp/8521203845/ref=sr_1_1?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=An%C3%A1lise+de+sobrevivencia&qid=1570313561&sr=8-1)
@@ -77,6 +88,7 @@ Repositório aberto para divulgação de material em Data Science, Programação
 
 [Elementos de Amostragem](https://www.amazon.com.br/Elementos-Amostragem-Heleno-Bolfarine/dp/8521203675/ref=sr_1_1?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=elementos+de+amostragem&qid=1570313529&sr=8-1)
 
+**[⬆ Voltar ao início](#teo-me-refs)**
 ### Machine Learning
 
 [Inteligência Artificial - Uma Abordagem de Aprendizado de Máquina](https://www.amazon.com.br/Inteligência-Artificial-Abordagem-Aprendizado-Máquina/dp/8521618808/ref=sr_1_1?__mk_pt_BR=ÅMÅŽÕÑ&keywords=abordagem+de+aprendixzado+de+máquina&qid=1570312349&sr=8-1-spell)
@@ -85,6 +97,7 @@ Repositório aberto para divulgação de material em Data Science, Programação
 
 [Mãos à Obra: Aprendizado de Máquina com Scikit-Learn & TensorFlow](https://www.amazon.com.br/M%C3%A3os-Obra-Aprendizado-Scikit-Learn-TensorFlow/dp/8550803812/ref=sr_1_1?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=machine+learning&qid=1588452787&sr=8-1)
 
+**[⬆ Voltar ao início](#teo-me-refs)**
 ### Programação
 [Data Science do Zero](https://www.amazon.com.br/Data-Science-zero-Joel-Grus/dp/857608998X/ref=sr_1_4?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=python+introdu%C3%A7%C3%A3o+abordagem&qid=1570312120&sr=8-4)
 
@@ -96,6 +109,7 @@ Repositório aberto para divulgação de material em Data Science, Programação
 
 [Use a cabeça! Programação](https://www.amazon.com.br/Use-cabe%C3%A7a-Programa%C3%A7%C3%A3o-Paul-Barry/dp/8576084732/ref=sr_1_1?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=212N7L75958QF&keywords=use+a+cabe%C3%A7a+programa%C3%A7%C3%A3o&qid=1571594374&sprefix=use+a+cabe%C3%A7a+pro%2Caps%2C298&sr=8-1)
 
+**[⬆ Voltar ao início](#teo-me-refs)**
 ### Projetos e Equipes
 
 [Manual de Devops. Como Obter Agilidade, Confiabilidade e Segurança em Organizações Tecnológicas](https://www.amazon.com.br/Agilidade-Confiabilidade-Seguran%C3%A7a-Organiza%C3%A7%C3%B5es-Tecnol%C3%B3gicas/dp/8550802697/ref=sr_1_1?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=devops&qid=1571593894&s=books&sr=1-1)
@@ -106,8 +120,12 @@ Repositório aberto para divulgação de material em Data Science, Programação
 
 [Sprint. O Método Usado no Google Para Testar e Aplicar Novas Ideias em Apenas Cinco Dias](https://www.amazon.com.br/Sprint-M%C3%A9todo-Google-Testar-Aplicar/dp/8551001523/ref=sr_1_1?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=sprint&qid=1571594027&s=books&smid=A18CNA8NWQSYHH&sr=1-1)
 
+**[⬆ Voltar ao início](#teo-me-refs)**
 ### Utilitários
 
 [Introdução às Expressões Regulares](https://www.amazon.com.br/Introdu%C3%A7%C3%A3o-Express%C3%B5es-Regulares-Michael-Fitzgerald/dp/8575223305/ref=sr_1_2?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=regex&qid=1570313670&sr=8-2)
 
 [Git: Guia Prático](https://www.amazon.com.br/Git-Guia-Pr%C3%A1tico-Richard-Silverman-ebook/dp/B07QCCX7CX/ref=sr_1_2?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=git&qid=1570313754&sr=8-2)
+
+**[⬆ Voltar ao início](#teo-me-refs)**
+## Perfis
