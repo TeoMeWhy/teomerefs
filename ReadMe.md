@@ -6,12 +6,16 @@ Repositório para divulgação de material em Data Science, Programação e Esta
 * [Canais](#canais)
 * [Livros](#livros)
 * [Perfis](#perfis)
+* [Podcasts](#podcasts)
 
 ## Blogs & Sites
 |Site|Tema|
 |---|---|
 |[asn.rocks](https://asn.rocks/)|Estatística de Data Science|
+|[datahackers.com.br](https://datahackers.com.br/)|Data Science|
 |[estatsite.com.br](http://estatsite.com.br/)|Data Science|
+|[gabsferreira.com](http://gabsferreira.com/)|Tecnologia e Carreira|
+|[pizzadedados.com](https://pizzadedados.com/)|Data Science|
 |[portalaction.com.br](http://www.portalaction.com.br/)|Estatística|
 |[oestatistico.com.br](https://oestatistico.com.br/)|Estatística|
 
@@ -130,5 +134,23 @@ Repositório para divulgação de material em Data Science, Programação e Esta
 **[⬆ Voltar ao início](#teo-me-refs)**
 ## Perfis
 
+Alguns perfis para seguir
+
 |Nome|Instagram|Facebook|LinkedIn|Twitter|
 |---|---|---|---|---|
+|Adriana Silva|[@dri_chispirita](https://www.instagram.com/dri_chispirita/)|-|[/adrianamms](https://www.linkedin.com/in/adrianamms/)|-|
+|Bruno Rocha|-|-|[/rochacbruno](https://www.linkedin.com/in/rochacbruno/)|[@rochacbruno](https://twitter.com/rochacbruno)
+|Jayme Anchante|-|-|[/jaymeanchante](https://www.linkedin.com/in/jaymeanchante/)|-|
+Mario Filho|-|[/MarioFilhoCom](https://www.facebook.com/MarioFilhoCom)|[/mariofilho](https://www.linkedin.com/in/mariofilho/)|[@MarioFilhoCom](https://twitter.com/MarioFilhoCom)|
+|Gabs Ferreira|-|-|[/gabsferreira](https://www.linkedin.com/in/gabsferreira/)|[o_gabsferreira](https://twitter.com/o_gabsferreira)|
+|Téo Calvo|[@teo.calvo](https://www.instagram.com/teo.calvo)|[/teo.calvo](https://www.facebook.com/teo.calvo)|[/teocalvo](https://www.linkedin.com/in/teocalvo/)|[@TeoCalvo](https://twitter.com/TeoCalvo)|
+|Thiago Marques|-|[/Prof.EstathiMarques](https://www.facebook.com/Prof.EstathiMarques)|[/thiagoestatidados](https://www.linkedin.com/in/thiagoestatidados/)|-|
+
+**[⬆ Voltar ao início](#teo-me-refs)**
+## Podcasts
+
+|Nome|Tema|
+|---|---|
+|[Carreira Sem Fronteiras](https://www.carreirasemfronteiras.com.br/)|Tecnologia e Carreira|
+|[DataHackers](https://open.spotify.com/show/1oMIHOXsrLFENAeM743g93)|Data Science|
+|[Pizza de Dados](https://podcast.pizzadedados.com/)|Data Science|
