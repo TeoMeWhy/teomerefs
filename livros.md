@@ -6,6 +6,28 @@ Repositório aberto para divulgação de material em Data Science, Programação
 * [Canais](#canais)
 * [Livros](#livros)
 
+## Canais
+
+* [Twitch](#twitch)
+* [YouTube](#youtube)
+
+### Twitch
+
+[teomewhy](https://www.twitch.tv/teomewhy)
+
+### YouTube
+
+[Canal do Yukio](https://www.youtube.com/channel/UCZDVnGEyggjuo2kgpmXdzGA?fbclid=IwAR30d4LHLF0qridCUjaloZDg1HSNVtk_hzbof7ZY2yuR-vueEfi_U-AzC_Q)
+
+[J!Quant](https://www.youtube.com/channel/UCrNTucu56jwzKJfUqsloSXQ)
+
+[Mario Filho - Data Science](https://www.youtube.com/channel/UCIFd_i2iwYox1PPm9rD8wFA)
+
+[Seja Um Data Scientist](https://www.youtube.com/channel/UCar5Cr-pVz08GY_6I3RX9bA)
+
+[Téo Me Why](https://www.youtube.com/channel/UC-Xa9J9-B4jBOoBNIHkMMKA)
+
+
 ## Livros
 
 * [Banco de dados](#banco-de-dados)
