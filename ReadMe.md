@@ -129,3 +129,6 @@ Repositório para divulgação de material em Data Science, Programação e Esta
 
 **[⬆ Voltar ao início](#teo-me-refs)**
 ## Perfis
+
+|Nome|Instagram|Facebook|LinkedIn|Twitter|
+|---|---|---|---|---|
