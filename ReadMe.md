@@ -23,7 +23,7 @@ Repositório aberto para divulgação de material em Data Science, Programação
 ### Twitch
 
 |Canal|Tema|
-|---|---|---|
+|---|---|
 |[codeshow](https://www.twitch.tv/codeshow)|Desenvolvimento de Software|
 |[codigofalado](https://www.twitch.tv/codigofalado)|Desenvolvimento Web|
 |[marcobrunodev](https://www.twitch.tv/marcobrunodev/)|Desenvolvimento Web|
@@ -34,7 +34,7 @@ Repositório aberto para divulgação de material em Data Science, Programação
 ### YouTube
 
 |Canal|Tema|
-|---|---|---|
+|---|---|
 |[Azeiro Businees](https://www.youtube.com/channel/UCfTVUc_w9qJ-eLdeIQUynnw?fbclid=IwAR0hAm29c2O10OAPb5U-JLQ6rZam508oOoAJXmgCVx3t_ZlpksNDj_o37N4)|BI|
 |[Canal do Yukio](https://www.youtube.com/channel/UCZDVnGEyggjuo2kgpmXdzGA?fbclid=IwAR30d4LHLF0qridCUjaloZDg1HSNVtk_hzbof7ZY2yuR-vueEfi_U-AzC_Q)|Data Science|
 |[Eduardo Mendes](https://www.youtube.com/user/mendesesduardo)|Desenvolvimento de Software|
