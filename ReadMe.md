@@ -144,7 +144,7 @@ Repositório para divulgação de material em Data Science, Programação e Esta
 Alguns perfis para seguir
 
 |Nome|Instagram|LinkedIn|Twitter|
-|---|---|---|---|---|
+|---|---|---|---|
 |Adriana Silva|[@dri_chispirita](https://www.instagram.com/dri_chispirita/)|[/adrianamms](https://www.linkedin.com/in/adrianamms/)|-|
 |Athos Damiani|-|[/athosdamiani](https://www.linkedin.com/in/athosdamiani/)|[@athos_damiani](https://twitter.com/athos_damiani)|
 |Bruno Rocha|-|[/rochacbruno](https://www.linkedin.com/in/rochacbruno/)|[@rochacbruno](https://twitter.com/rochacbruno)
