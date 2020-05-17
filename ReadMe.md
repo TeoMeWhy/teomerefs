@@ -2,9 +2,18 @@
 
 Repositório aberto para divulgação de material em Data Science, Programação e Estatística.
 
-* [Blogs](#blogs)
+* [Blogs](#blogs--sites)
 * [Canais](#canais)
 * [Livros](#livros)
+
+## Blogs & Sites
+|Site|Tema|
+|---|---|
+|[www.estatsite.com.br](http://estatsite.com.br/)|Data Science|
+|[www.portalaction.com.br](http://www.portalaction.com.br/)|Estatística|
+|[www.oestatistico.com.br](https://oestatistico.com.br/)|Estatística|
+
+
 
 ## Canais
 
@@ -13,19 +22,32 @@ Repositório aberto para divulgação de material em Data Science, Programação
 
 ### Twitch
 
-[teomewhy](https://www.twitch.tv/teomewhy)
+|Canal|Tema|
+|---|---|---|
+|[codeshow](https://www.twitch.tv/codeshow)|Desenvolvimento de Software|
+|[codigofalado](https://www.twitch.tv/codigofalado)|Desenvolvimento Web|
+|[marcobrunodev](https://www.twitch.tv/marcobrunodev/)|Desenvolvimento Web|
+|[nomadcodemist](https://www.twitch.tv/nomadcodemist)|Desenvolvimento Web
+|[o_gabsferreira](https://www.twitch.tv/o_gabsferreira/)|Desenvolvimento Web e Data Science
+|[teomewhy](https://www.twitch.tv/teomewhy)|Data Science|
 
 ### YouTube
 
-[Canal do Yukio](https://www.youtube.com/channel/UCZDVnGEyggjuo2kgpmXdzGA?fbclid=IwAR30d4LHLF0qridCUjaloZDg1HSNVtk_hzbof7ZY2yuR-vueEfi_U-AzC_Q)
-
-[J!Quant](https://www.youtube.com/channel/UCrNTucu56jwzKJfUqsloSXQ)
-
-[Mario Filho - Data Science](https://www.youtube.com/channel/UCIFd_i2iwYox1PPm9rD8wFA)
-
-[Seja Um Data Scientist](https://www.youtube.com/channel/UCar5Cr-pVz08GY_6I3RX9bA)
-
-[Téo Me Why](https://www.youtube.com/channel/UC-Xa9J9-B4jBOoBNIHkMMKA)
+|Canal|Tema|
+|---|---|---|
+|[Azeiro Businees](https://www.youtube.com/channel/UCfTVUc_w9qJ-eLdeIQUynnw?fbclid=IwAR0hAm29c2O10OAPb5U-JLQ6rZam508oOoAJXmgCVx3t_ZlpksNDj_o37N4)|BI|
+|[Canal do Yukio](https://www.youtube.com/channel/UCZDVnGEyggjuo2kgpmXdzGA?fbclid=IwAR30d4LHLF0qridCUjaloZDg1HSNVtk_hzbof7ZY2yuR-vueEfi_U-AzC_Q)|Data Science|
+|[Eduardo Mendes](https://www.youtube.com/user/mendesesduardo)|Desenvolvimento de Software|
+|[EstaTiDados](https://www.youtube.com/channel/UC4jROkPjTvnXRkuo2GAwKXw)|Data Science|
+|[Fábio Akita](https://www.youtube.com/channel/UCib793mnUOhWymCh2VJKplQ?fbclid=IwAR0UKydTeZa8GIz0H5qAgBPRD502kj9ZHFJesVUuUjp7c5QKE7m_3yBaQeM)|Desenvolvimento de Software|
+|[J!Quant](https://www.youtube.com/channel/UCrNTucu56jwzKJfUqsloSXQ)|Data Science|
+|[Lucas Montano](https://www.youtube.com/channel/UCyHOBY6IDZF9zOKJPou2Rgg)|Desenvolvimento de Software
+|[Mario Filho - Data Science](https://www.youtube.com/channel/UCIFd_i2iwYox1PPm9rD8wFA)|Data Science|
+|[Programação Dinâmica](https://www.youtube.com/channel/UC70mr11REaCqgKke7DPJoLg)|Data Science e Desenvolvimento de Software
+|[Outspoken Market](https://www.youtube.com/user/aitechinvest)|Data Science|
+|[Seja Um Data Scientist](https://www.youtube.com/channel/UCar5Cr-pVz08GY_6I3RX9bA)|Data Science|
+|[Sigmoidal](https://www.youtube.com/user/darknessdobr)|Data Science|
+|[Téo Me Why](https://www.youtube.com/channel/UC-Xa9J9-B4jBOoBNIHkMMKA)|Data Science|
 
 
 ## Livros
