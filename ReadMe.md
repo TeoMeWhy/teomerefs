@@ -6,13 +6,21 @@ Repositório para divulgação de material em Data Science, Programação e Esta
 * [Canais](#canais)
 * [Livros](#livros)
 * [Perfis](#perfis)
+* [Podcasts](#podcasts)
 
 ## Blogs & Sites
 |Site|Tema|
 |---|---|
-|[asn.rocks](https://asn.rocks/)|Estatística de Data Science|
+|[asn.rocks](https://asn.rocks/)|Estatística e Data Science|
+|[curso-r.com](https://www.curso-r.com/)|R e Data Science|
+|[datahackers.com.br](https://datahackers.com.br/)|Data Science|
 |[estatsite.com.br](http://estatsite.com.br/)|Data Science|
+|[gabsferreira.com](http://gabsferreira.com/)|Tecnologia e Carreira|
+|[pizzadedados.com](https://pizzadedados.com/)|Data Science|
 |[portalaction.com.br](http://www.portalaction.com.br/)|Estatística|
+|[brasil.pyladies.com](https://brasil.pyladies.com/)|Python|
+|[ridiculas.wordpress.com](https://ridiculas.wordpress.com/)|R e Estatística|
+|[rladiesbh.com.br](https://rladiesbh.com.br/)|R|
 |[oestatistico.com.br](https://oestatistico.com.br/)|Estatística|
 
 **[⬆ Voltar ao início](#teo-me-refs)**
@@ -45,9 +53,11 @@ Repositório para divulgação de material em Data Science, Programação e Esta
 |[Azeiro Businees](https://www.youtube.com/channel/UCfTVUc_w9qJ-eLdeIQUynnw?fbclid=IwAR0hAm29c2O10OAPb5U-JLQ6rZam508oOoAJXmgCVx3t_ZlpksNDj_o37N4)|BI|
 |[Canal do Yukio](https://www.youtube.com/channel/UCZDVnGEyggjuo2kgpmXdzGA?fbclid=IwAR30d4LHLF0qridCUjaloZDg1HSNVtk_hzbof7ZY2yuR-vueEfi_U-AzC_Q)|Data Science|
 |[CodeShow](https://www.youtube.com/user/brunovegan)|Desenvolvimento de Software|
+|[Curso-R](https://www.youtube.com/channel/UCTXuqtCYxPVEehq6fJY9GkA)|R e Data Science|
 |[Eduardo Mendes](https://www.youtube.com/user/mendesesduardo)|Desenvolvimento de Software|
 |[EstaTiDados](https://www.youtube.com/channel/UC4jROkPjTvnXRkuo2GAwKXw)|Data Science|
 |[Fábio Akita](https://www.youtube.com/channel/UCib793mnUOhWymCh2VJKplQ?fbclid=IwAR0UKydTeZa8GIz0H5qAgBPRD502kj9ZHFJesVUuUjp7c5QKE7m_3yBaQeM)|Desenvolvimento de Software|
+|[Filipe Deschamps](https://www.youtube.com/channel/UCU5JicSrEM5A63jkJ2QvGYw)|Desenvolvimento de Software|
 |[J!Quant](https://www.youtube.com/channel/UCrNTucu56jwzKJfUqsloSXQ)|Data Science|
 |[Lucas Montano](https://www.youtube.com/channel/UCyHOBY6IDZF9zOKJPou2Rgg)|Desenvolvimento de Software
 |[Mario Filho - Data Science](https://www.youtube.com/channel/UCIFd_i2iwYox1PPm9rD8wFA)|Data Science|
@@ -57,6 +67,7 @@ Repositório para divulgação de material em Data Science, Programação e Esta
 |[Sigmoidal](https://www.youtube.com/user/darknessdobr)|Data Science|
 |[Téo Me Why](https://www.youtube.com/channel/UC-Xa9J9-B4jBOoBNIHkMMKA)|Data Science|
 |[Universo Programado](https://www.youtube.com/channel/UCf_kacKyoRRUP0nM3obzFbg)|IA e Desenvolvimento de Software|
+|[Walmes Zeviani](https://www.youtube.com/user/walmes)|R e Estatística|
 
 **[⬆ Voltar ao início](#teo-me-refs)**
 ## Livros
@@ -130,5 +141,29 @@ Repositório para divulgação de material em Data Science, Programação e Esta
 **[⬆ Voltar ao início](#teo-me-refs)**
 ## Perfis
 
-|Nome|Instagram|Facebook|LinkedIn|Twitter|
+Alguns perfis para seguir
+
+|Nome|Instagram|LinkedIn|Twitter|
 |---|---|---|---|---|
+|Adriana Silva|[@dri_chispirita](https://www.instagram.com/dri_chispirita/)|[/adrianamms](https://www.linkedin.com/in/adrianamms/)|-|
+|Athos Damiani|-|[/athosdamiani](https://www.linkedin.com/in/athosdamiani/)|[@athos_damiani](https://twitter.com/athos_damiani)|
+|Bruno Rocha|-|[/rochacbruno](https://www.linkedin.com/in/rochacbruno/)|[@rochacbruno](https://twitter.com/rochacbruno)
+|Filipe Deschamps|-|[/filipedeschamps](https://www.linkedin.com/in/filipedeschamps/)|[@FilipeDeschamps](https://twitter.com/FilipeDeschamps)|
+|Gabs Ferreira|-|[/gabsferreira](https://www.linkedin.com/in/gabsferreira/)|[@o_gabsferreira](https://twitter.com/o_gabsferreira)|
+|Jayme Anchante|-|[/jaymeanchante](https://www.linkedin.com/in/jaymeanchante/)|-|
+|Julio Trecenti|-|[/jtrecenti](https://www.linkedin.com/in/jtrecenti/)|[@jtrecenti](https://twitter.com/jtrecenti)|
+|Kizzy Terra|-|[/kizzyterra](https://www.linkedin.com/in/kizzyterra/)|[@kizzy_terra](https://twitter.com/kizzy_terra)|
+|Lucas Montano|-|[/lucasmontano](https://www.linkedin.com/in/lucasmontano/)|[@lucas_montano](https://twitter.com/lucas_montano)|
+Mario Filho|-|[/mariofilho](https://www.linkedin.com/in/mariofilho/)|[@MarioFilhoCom](https://twitter.com/MarioFilhoCom)|
+|Raniere Ramos|-|[/raniereramos](https://www.linkedin.com/in/raniereramos/)|[@oestatisticoweb](https://twitter.com/oestatisticoweb)
+|Téo Calvo|[@teo.calvo](https://www.instagram.com/teo.calvo)|[/teocalvo](https://www.linkedin.com/in/teocalvo/)|[@TeoCalvo](https://twitter.com/TeoCalvo)|
+|Thiago Marques|-|[/thiagoestatidados](https://www.linkedin.com/in/thiagoestatidados/)|-|
+
+**[⬆ Voltar ao início](#teo-me-refs)**
+## Podcasts
+
+|Nome|Tema|
+|---|---|
+|[Carreira Sem Fronteiras](https://www.carreirasemfronteiras.com.br/)|Tecnologia e Carreira|
+|[DataHackers](https://open.spotify.com/show/1oMIHOXsrLFENAeM743g93)|Data Science|
+|[Pizza de Dados](https://podcast.pizzadedados.com/)|Data Science|
