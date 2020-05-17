@@ -12,13 +12,13 @@ Repositório para divulgação de material em Data Science, Programação e Esta
 |Site|Tema|
 |---|---|
 |[asn.rocks](https://asn.rocks/)|Estatística e Data Science|
+|[brasil.pyladies.com](https://brasil.pyladies.com/)|Python|
 |[curso-r.com](https://www.curso-r.com/)|R e Data Science|
 |[datahackers.com.br](https://datahackers.com.br/)|Data Science|
 |[estatsite.com.br](http://estatsite.com.br/)|Data Science|
 |[gabsferreira.com](http://gabsferreira.com/)|Tecnologia e Carreira|
 |[pizzadedados.com](https://pizzadedados.com/)|Data Science|
 |[portalaction.com.br](http://www.portalaction.com.br/)|Estatística|
-|[brasil.pyladies.com](https://brasil.pyladies.com/)|Python|
 |[ridiculas.wordpress.com](https://ridiculas.wordpress.com/)|R e Estatística|
 |[rladiesbh.com.br](https://rladiesbh.com.br/)|R|
 |[oestatistico.com.br](https://oestatistico.com.br/)|Estatística|
@@ -34,10 +34,13 @@ Repositório para divulgação de material em Data Science, Programação e Esta
 
 |Canal|Tema|
 |---|---|
+|[abelsiqueira](https://www.twitch.tv/abelsiqueira)|Data Science|
 |[ana_geek](https://www.twitch.tv/ana_geek)|Desenvolvimento de Games|
 |[codeshow](https://www.twitch.tv/codeshow)|Desenvolvimento de Software|
 |[codigofalado](https://www.twitch.tv/codigofalado)|Desenvolvimento Web|
 |[dininho](https://www.twitch.tv/dininho)|Desenvolvimento de Games|
+|[eduardorfs](https://www.twitch.tv/eduardorfs)|Desenvolvimento de Software|
+|[glaucia_lemos86](https://www.twitch.tv/glaucia_lemos86)|Desenvolvimento Web|
 |[grsoares](https://www.twitch.tv/grsoares)|IA e Desenvolvimento de Software|
 |[marcobrunodev](https://www.twitch.tv/marcobrunodev/)|Desenvolvimento Web|
 |[nomadcodemist](https://www.twitch.tv/nomadcodemist)|Desenvolvimento Web|
@@ -89,18 +92,26 @@ Repositório para divulgação de material em Data Science, Programação e Esta
 **[⬆ Voltar ao início](#teo-me-refs)**
 ### Estatística
 
+[Análise de Modelos de Regressão Linear com Aplicações](https://www.amazon.com.br/An%C3%A1lise-Modelos-Regress%C3%A3o-Linear-Aplica%C3%A7%C3%B5es/dp/8526807803/ref=sr_1_1?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=regress%C3%A3o+linear&qid=1589739938&sr=8-1)
+
+[Análise de Séries Temporais](https://www.amazon.com.br/An%C3%A1lise-S%C3%A9ries-Temporais-Pedro-Morettin/dp/8521203896/ref=sr_1_3?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=1LO2L74ZHMU53&keywords=an%C3%A1lise+de+s%C3%A9ries+temporais&qid=1589739988&sprefix=An%C3%A1lise+de+s%C3%A9ries+%2Caps%2C284&sr=8-3)
+
 [Análise de Sobrevivência Aplicada ](https://www.amazon.com.br/An%C3%A1lise-Sobreviv%C3%AAncia-Aplicada-Ant%C3%B4nio-Colosimo/dp/8521203845/ref=sr_1_1?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=An%C3%A1lise+de+sobrevivencia&qid=1570313561&sr=8-1)
 
-[Estatística básica](https://www.amazon.com.br/Estat%C3%ADstica-B%C3%A1sica-Wilton-Bussab/dp/8547220224/ref=sr_1_1?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=estat%C3%ADstica+b%C3%A1sica&qid=1570311928&sr=8-1)
+[Elementos de Amostragem](https://www.amazon.com.br/Elementos-Amostragem-Heleno-Bolfarine/dp/8521203675/ref=sr_1_1?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=elementos+de+amostragem&qid=1570313529&sr=8-1)
+
+[Estatística Básica](https://www.amazon.com.br/Estat%C3%ADstica-B%C3%A1sica-Wilton-Bussab/dp/8547220224/ref=sr_1_1?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=estat%C3%ADstica+b%C3%A1sica&qid=1570311928&sr=8-1)
+
+[Estatística Prática Para Cientistas de Dados: 50 Conceitos Essenciais](https://www.amazon.com.br/Estat%C3%ADstica-Pr%C3%A1tica-Para-Cientistas-Dados/dp/855080603X/ref=sr_1_12?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=infer%C3%AAncia+estat%C3%ADstica&qid=1589740047&sr=8-12)
 
 [Probabilidade - Aplicações à Estatística](https://www.amazon.com.br/Probabilidade-Aplica%C3%A7%C3%B5es-Estat%C3%ADstica-Paul-Meyer/dp/8521602944/ref=sr_1_1?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=probabilidade+paul+meyer&qid=1570312066&sr=8-1)
 
 [Probabilidade: Um Curso Moderno com Aplicações](https://www.amazon.com.br/Probabilidade-Curso-Moderno-com-Aplica%C3%A7%C3%B5es/dp/8577806219/ref=sr_1_1?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=probabilidade+sheldon&qid=1570312087&sr=8-1)
 
-[Elementos de Amostragem](https://www.amazon.com.br/Elementos-Amostragem-Heleno-Bolfarine/dp/8521203675/ref=sr_1_1?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=elementos+de+amostragem&qid=1570313529&sr=8-1)
-
 **[⬆ Voltar ao início](#teo-me-refs)**
 ### Machine Learning
+
+[Data Science do Zero](https://www.amazon.com.br/Data-Science-zero-Joel-Grus/dp/857608998X/ref=sr_1_4?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=python+introdu%C3%A7%C3%A3o+abordagem&qid=1570312120&sr=8-4)
 
 [Inteligência Artificial - Uma Abordagem de Aprendizado de Máquina](https://www.amazon.com.br/Inteligência-Artificial-Abordagem-Aprendizado-Máquina/dp/8521618808/ref=sr_1_1?__mk_pt_BR=ÅMÅŽÕÑ&keywords=abordagem+de+aprendixzado+de+máquina&qid=1570312349&sr=8-1-spell)
 
@@ -110,15 +121,18 @@ Repositório para divulgação de material em Data Science, Programação e Esta
 
 **[⬆ Voltar ao início](#teo-me-refs)**
 ### Programação
-[Data Science do Zero](https://www.amazon.com.br/Data-Science-zero-Joel-Grus/dp/857608998X/ref=sr_1_4?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=python+introdu%C3%A7%C3%A3o+abordagem&qid=1570312120&sr=8-4)
 
 [Programação Python 3](https://www.amazon.com.br/Programa%C3%A7%C3%A3o-em-Python-Mark-Summerfield/dp/8576083841/ref=sr_1_48?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=python&qid=1570312294&sr=8-48)
+
+[Python Fluente: Programação Clara, Concisa e Eficaz](https://www.amazon.com.br/Python-Fluente-Programa%C3%A7%C3%A3o-Concisa-Eficaz/dp/857522462X/ref=sr_1_1?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=python+fluente&qid=1589740131&sr=8-1)
 
 [Python Para Análise de Dados: Tratamento de Dados com Pandas, NumPy e IPython](https://www.amazon.com.br/Python-Para-An%C3%A1lise-Dados-Tratamento/dp/8575226479/ref=pd_sbs_14_4/140-3766347-0663132?_encoding=UTF8&pd_rd_i=8575226479&pd_rd_r=645da400-915a-4ee5-821c-4359f9026cb0&pd_rd_w=0elEi&pd_rd_wg=3O24W&pf_rd_p=80c6065d-57d3-41bf-b15e-ee01dd80424f&pf_rd_r=6JDB4TSS37T886NMQZCN&psc=1&refRID=6JDB4TSS37T886NMQZCN)
 
 [Python Para Desenvolvedores](https://www.amazon.com.br/Python-Para-Desenvolvedores-Eduardo-Borges/dp/8575224050/ref=sr_1_1?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=python+para+desenvolvedores&qid=1570313599&sr=8-1)
 
 [Use a cabeça! Programação](https://www.amazon.com.br/Use-cabe%C3%A7a-Programa%C3%A7%C3%A3o-Paul-Barry/dp/8576084732/ref=sr_1_1?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=212N7L75958QF&keywords=use+a+cabe%C3%A7a+programa%C3%A7%C3%A3o&qid=1571594374&sprefix=use+a+cabe%C3%A7a+pro%2Caps%2C298&sr=8-1)
+
+[Web Scraping com Python: Coletando Mais Dados da web Moderna ](https://www.amazon.com.br/Web-Scraping-Com-Python-Coletando/dp/8575227300/ref=sr_1_1?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=web+scraping+com+python&qid=1589740421&sr=8-1)
 
 **[⬆ Voltar ao início](#teo-me-refs)**
 ### Projetos e Equipes
@@ -146,16 +160,17 @@ Alguns perfis para seguir
 |Nome|Instagram|LinkedIn|Twitter|
 |---|---|---|---|
 |Adriana Silva|[@dri_chispirita](https://www.instagram.com/dri_chispirita/)|[/adrianamms](https://www.linkedin.com/in/adrianamms/)|-|
-|Athos Damiani|-|[/athosdamiani](https://www.linkedin.com/in/athosdamiani/)|[@athos_damiani](https://twitter.com/athos_damiani)|
-|Bruno Rocha|-|[/rochacbruno](https://www.linkedin.com/in/rochacbruno/)|[@rochacbruno](https://twitter.com/rochacbruno)
-|Filipe Deschamps|-|[/filipedeschamps](https://www.linkedin.com/in/filipedeschamps/)|[@FilipeDeschamps](https://twitter.com/FilipeDeschamps)|
-|Gabs Ferreira|-|[/gabsferreira](https://www.linkedin.com/in/gabsferreira/)|[@o_gabsferreira](https://twitter.com/o_gabsferreira)|
+|Athos Damiani|[@athosdamiani](https://www.instagram.com/athosdamiani/)|[/athosdamiani](https://www.linkedin.com/in/athosdamiani/)|[@athos_damiani](https://twitter.com/athos_damiani)|
+|Bruno Rocha|[@codeshowbr](https://www.instagram.com/codeshowbr/)|[/rochacbruno](https://www.linkedin.com/in/rochacbruno/)|[@rochacbruno](https://twitter.com/rochacbruno)
+|Filipe Deschamps|[filipedeschamps](https://www.instagram.com/filipedeschamps/)|[/filipedeschamps](https://www.linkedin.com/in/filipedeschamps/)|[@FilipeDeschamps](https://twitter.com/FilipeDeschamps)|
+|Gabs Ferreira|[@o_gabsferreira](https://www.instagram.com/o_gabsferreira/)|[/gabsferreira](https://www.linkedin.com/in/gabsferreira/)|[@o_gabsferreira](https://twitter.com/o_gabsferreira)|
+|Glaucia Lemos|[@glaucia.lemos.dev](https://www.instagram.com/glaucia.lemos.dev/)|[/glaucialemos](https://www.linkedin.com/in/glaucialemos/)|[@glaucia_lemos86](https://twitter.com/glaucia_lemos86)
 |Jayme Anchante|-|[/jaymeanchante](https://www.linkedin.com/in/jaymeanchante/)|-|
 |Julio Trecenti|-|[/jtrecenti](https://www.linkedin.com/in/jtrecenti/)|[@jtrecenti](https://twitter.com/jtrecenti)|
-|Kizzy Terra|-|[/kizzyterra](https://www.linkedin.com/in/kizzyterra/)|[@kizzy_terra](https://twitter.com/kizzy_terra)|
-|Lucas Montano|-|[/lucasmontano](https://www.linkedin.com/in/lucasmontano/)|[@lucas_montano](https://twitter.com/lucas_montano)|
-Mario Filho|-|[/mariofilho](https://www.linkedin.com/in/mariofilho/)|[@MarioFilhoCom](https://twitter.com/MarioFilhoCom)|
-|Raniere Ramos|-|[/raniereramos](https://www.linkedin.com/in/raniereramos/)|[@oestatisticoweb](https://twitter.com/oestatisticoweb)
+|Kizzy Terra|[@kizzy_terra](https://www.instagram.com/kizzy_terra/)|[/kizzyterra](https://www.linkedin.com/in/kizzyterra/)|[@kizzy_terra](https://twitter.com/kizzy_terra)|
+|Lucas Montano|[@lucasmontano](https://www.instagram.com/lucasmontano/)|[/lucasmontano](https://www.linkedin.com/in/lucasmontano/)|[@lucas_montano](https://twitter.com/lucas_montano)|
+Mario Filho|[@mariofilhoml](https://www.instagram.com/mariofilhoml/)|[/mariofilho](https://www.linkedin.com/in/mariofilho/)|[@MarioFilhoCom](https://twitter.com/MarioFilhoCom)|
+|Raniere Ramos|[@oestatistico](https://www.instagram.com/oestatistico/)|[/raniereramos](https://www.linkedin.com/in/raniereramos/)|[@oestatisticoweb](https://twitter.com/oestatisticoweb)
 |Téo Calvo|[@teo.calvo](https://www.instagram.com/teo.calvo)|[/teocalvo](https://www.linkedin.com/in/teocalvo/)|[@TeoCalvo](https://twitter.com/TeoCalvo)|
 |Thiago Marques|-|[/thiagoestatidados](https://www.linkedin.com/in/thiagoestatidados/)|-|
 
