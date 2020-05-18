@@ -22,6 +22,8 @@ Repositório para divulgação de material em Data Science, Programação e Esta
 |[ridiculas.wordpress.com](https://ridiculas.wordpress.com/)|R e Estatística|
 |[rladiesbh.com.br](https://rladiesbh.com.br/)|R|
 |[oestatistico.com.br](https://oestatistico.com.br/)|Estatística|
+|[estatisticafacil.org](http://estatisticafacil.org/)|Estatística|
+|[sejaumdatascientist.com](https://sejaumdatascientist.com/)|Data Science|
 
 **[⬆ Voltar ao início](#teo-me-refs)**
 ## Canais
