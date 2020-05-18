@@ -15,14 +15,14 @@ Repositório para divulgação de material em Data Science, Programação e Esta
 |[brasil.pyladies.com](https://brasil.pyladies.com/)|Python|
 |[curso-r.com](https://www.curso-r.com/)|R e Data Science|
 |[datahackers.com.br](https://datahackers.com.br/)|Data Science|
+|[estatisticafacil.org](http://estatisticafacil.org/)|Estatística|
 |[estatsite.com.br](http://estatsite.com.br/)|Data Science|
 |[gabsferreira.com](http://gabsferreira.com/)|Tecnologia e Carreira|
+|[oestatistico.com.br](https://oestatistico.com.br/)|Estatística|
 |[pizzadedados.com](https://pizzadedados.com/)|Data Science|
 |[portalaction.com.br](http://www.portalaction.com.br/)|Estatística|
 |[ridiculas.wordpress.com](https://ridiculas.wordpress.com/)|R e Estatística|
 |[rladiesbh.com.br](https://rladiesbh.com.br/)|R|
-|[oestatistico.com.br](https://oestatistico.com.br/)|Estatística|
-|[estatisticafacil.org](http://estatisticafacil.org/)|Estatística|
 |[sejaumdatascientist.com](https://sejaumdatascientist.com/)|Data Science|
 
 **[⬆ Voltar ao início](#teo-me-refs)**
@@ -66,8 +66,8 @@ Repositório para divulgação de material em Data Science, Programação e Esta
 |[J!Quant](https://www.youtube.com/channel/UCrNTucu56jwzKJfUqsloSXQ)|Data Science|
 |[Lucas Montano](https://www.youtube.com/channel/UCyHOBY6IDZF9zOKJPou2Rgg)|Desenvolvimento de Software
 |[Mario Filho - Data Science](https://www.youtube.com/channel/UCIFd_i2iwYox1PPm9rD8wFA)|Data Science|
-|[Programação Dinâmica](https://www.youtube.com/channel/UC70mr11REaCqgKke7DPJoLg)|Data Science e Desenvolvimento de Software
 |[Outspoken Market](https://www.youtube.com/user/aitechinvest)|Data Science|
+|[Programação Dinâmica](https://www.youtube.com/channel/UC70mr11REaCqgKke7DPJoLg)|Data Science e Desenvolvimento de Software
 |[Seja Um Data Scientist](https://www.youtube.com/channel/UCar5Cr-pVz08GY_6I3RX9bA)|Data Science|
 |[Sigmoidal](https://www.youtube.com/user/darknessdobr)|Data Science|
 |[Téo Me Why](https://www.youtube.com/channel/UC-Xa9J9-B4jBOoBNIHkMMKA)|Data Science|
@@ -164,14 +164,16 @@ Alguns perfis para seguir
 |Adriana Silva|[@dri_chispirita](https://www.instagram.com/dri_chispirita/)|[/adrianamms](https://www.linkedin.com/in/adrianamms/)|-|
 |Athos Damiani|[@athosdamiani](https://www.instagram.com/athosdamiani/)|[/athosdamiani](https://www.linkedin.com/in/athosdamiani/)|[@athos_damiani](https://twitter.com/athos_damiani)|
 |Bruno Rocha|[@codeshowbr](https://www.instagram.com/codeshowbr/)|[/rochacbruno](https://www.linkedin.com/in/rochacbruno/)|[@rochacbruno](https://twitter.com/rochacbruno)
-|Filipe Deschamps|[filipedeschamps](https://www.instagram.com/filipedeschamps/)|[/filipedeschamps](https://www.linkedin.com/in/filipedeschamps/)|[@FilipeDeschamps](https://twitter.com/FilipeDeschamps)|
+|Filipe Deschamps|[@filipedeschamps](https://www.instagram.com/filipedeschamps/)|[/filipedeschamps](https://www.linkedin.com/in/filipedeschamps/)|[@FilipeDeschamps](https://twitter.com/FilipeDeschamps)|
 |Gabs Ferreira|[@o_gabsferreira](https://www.instagram.com/o_gabsferreira/)|[/gabsferreira](https://www.linkedin.com/in/gabsferreira/)|[@o_gabsferreira](https://twitter.com/o_gabsferreira)|
 |Glaucia Lemos|[@glaucia.lemos.dev](https://www.instagram.com/glaucia.lemos.dev/)|[/glaucialemos](https://www.linkedin.com/in/glaucialemos/)|[@glaucia_lemos86](https://twitter.com/glaucia_lemos86)
 |Jayme Anchante|-|[/jaymeanchante](https://www.linkedin.com/in/jaymeanchante/)|-|
+|Joao Paulo Nogueira|-|[/joaopaulonogueira](https://www.linkedin.com/in/joaopaulonogueira/)|[@joaopcnogueira](https://twitter.com/joaopcnogueira)|
 |Julio Trecenti|-|[/jtrecenti](https://www.linkedin.com/in/jtrecenti/)|[@jtrecenti](https://twitter.com/jtrecenti)|
 |Kizzy Terra|[@kizzy_terra](https://www.instagram.com/kizzy_terra/)|[/kizzyterra](https://www.linkedin.com/in/kizzyterra/)|[@kizzy_terra](https://twitter.com/kizzy_terra)|
 |Lucas Montano|[@lucasmontano](https://www.instagram.com/lucasmontano/)|[/lucasmontano](https://www.linkedin.com/in/lucasmontano/)|[@lucas_montano](https://twitter.com/lucas_montano)|
 Mario Filho|[@mariofilhoml](https://www.instagram.com/mariofilhoml/)|[/mariofilho](https://www.linkedin.com/in/mariofilho/)|[@MarioFilhoCom](https://twitter.com/MarioFilhoCom)|
+|Meigarom Lopes|-|[Meigarom Lopes](https://www.linkedin.com/in/meigarom/?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAAazy44B0cQNwp2I0oq0SIVQRGDQseeySkg)|[@Meigarom](https://twitter.com/Meigarom)|
 |Raniere Ramos|[@oestatistico](https://www.instagram.com/oestatistico/)|[/raniereramos](https://www.linkedin.com/in/raniereramos/)|[@oestatisticoweb](https://twitter.com/oestatisticoweb)
 |Téo Calvo|[@teo.calvo](https://www.instagram.com/teo.calvo)|[/teocalvo](https://www.linkedin.com/in/teocalvo/)|[@TeoCalvo](https://twitter.com/TeoCalvo)|
 |Thiago Marques|-|[/thiagoestatidados](https://www.linkedin.com/in/thiagoestatidados/)|-|
