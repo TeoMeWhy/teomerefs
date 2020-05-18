@@ -94,6 +94,8 @@ Repositório para divulgação de material em Data Science, Programação e Esta
 **[⬆ Voltar ao início](#teo-me-refs)**
 ### Estatística
 
+[Análise de Dados Através de Métodos de Estatística Multivariada. Uma Abordagem Aplicada](https://www.amazon.com.br/An%C3%A1lise-Estat%C3%ADstica-Multivariada-Abordagem-Aplicada/dp/857041451X/ref=sr_1_1?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=6VSO0G1KO7K9&keywords=analise+multivariada+sueli&qid=1589815241&sprefix=analise+mul%2Caps%2C268&sr=8-1)
+
 [Análise de Modelos de Regressão Linear com Aplicações](https://www.amazon.com.br/An%C3%A1lise-Modelos-Regress%C3%A3o-Linear-Aplica%C3%A7%C3%B5es/dp/8526807803/ref=sr_1_1?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=regress%C3%A3o+linear&qid=1589739938&sr=8-1)
 
 [Análise de Séries Temporais](https://www.amazon.com.br/An%C3%A1lise-S%C3%A9ries-Temporais-Pedro-Morettin/dp/8521203896/ref=sr_1_3?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=1LO2L74ZHMU53&keywords=an%C3%A1lise+de+s%C3%A9ries+temporais&qid=1589739988&sprefix=An%C3%A1lise+de+s%C3%A9ries+%2Caps%2C284&sr=8-3)
@@ -173,7 +175,7 @@ Alguns perfis para seguir
 |Kizzy Terra|[@kizzy_terra](https://www.instagram.com/kizzy_terra/)|[/kizzyterra](https://www.linkedin.com/in/kizzyterra/)|[@kizzy_terra](https://twitter.com/kizzy_terra)|
 |Lucas Montano|[@lucasmontano](https://www.instagram.com/lucasmontano/)|[/lucasmontano](https://www.linkedin.com/in/lucasmontano/)|[@lucas_montano](https://twitter.com/lucas_montano)|
 Mario Filho|[@mariofilhoml](https://www.instagram.com/mariofilhoml/)|[/mariofilho](https://www.linkedin.com/in/mariofilho/)|[@MarioFilhoCom](https://twitter.com/MarioFilhoCom)|
-|Meigarom Lopes|-|[Meigarom Lopes](https://www.linkedin.com/in/meigarom/?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAAazy44B0cQNwp2I0oq0SIVQRGDQseeySkg)|[@Meigarom](https://twitter.com/Meigarom)|
+|Meigarom Lopes|-|[/meigarom](https://www.linkedin.com/in/meigarom/?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAAazy44B0cQNwp2I0oq0SIVQRGDQseeySkg)|[@Meigarom](https://twitter.com/Meigarom)|
 |Raniere Ramos|[@oestatistico](https://www.instagram.com/oestatistico/)|[/raniereramos](https://www.linkedin.com/in/raniereramos/)|[@oestatisticoweb](https://twitter.com/oestatisticoweb)
 |Téo Calvo|[@teo.calvo](https://www.instagram.com/teo.calvo)|[/teocalvo](https://www.linkedin.com/in/teocalvo/)|[@TeoCalvo](https://twitter.com/TeoCalvo)|
 |Thiago Marques|-|[/thiagoestatidados](https://www.linkedin.com/in/thiagoestatidados/)|-|
@@ -185,4 +187,6 @@ Mario Filho|[@mariofilhoml](https://www.instagram.com/mariofilhoml/)|[/mariofilh
 |---|---|
 |[Carreira Sem Fronteiras](https://www.carreirasemfronteiras.com.br/)|Tecnologia e Carreira|
 |[DataHackers](https://open.spotify.com/show/1oMIHOXsrLFENAeM743g93)|Data Science|
+|[Depois do Café](https://open.spotify.com/show/4cqX5o40bClwqtYHv9X7Lp?si=6ml1VsFaTTCmQ5UzkxyAyg)|Tecnologia e Carreira|
+|[Hipsters Ponto Tech](https://open.spotify.com/show/2p0Vx75OmfsXktyLBuLuSf?si=4x-AM7qRTgmZKu1AR96hKQ)|Tecnologia e Carreira|
 |[Pizza de Dados](https://podcast.pizzadedados.com/)|Data Science|
