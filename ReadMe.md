@@ -47,6 +47,7 @@ Repositório para divulgação de material em Data Science, Programação e Esta
 |[marcobrunodev](https://www.twitch.tv/marcobrunodev/)|Desenvolvimento Web|
 |[nomadcodemist](https://www.twitch.tv/nomadcodemist)|Desenvolvimento Web|
 |[o_gabsferreira](https://www.twitch.tv/o_gabsferreira/)|Data Science Desenvolvimento Web|
+|[spacedevs](https://www.twitch.tv/spacedevs)|Desenvolvimento de Software|
 |[teomewhy](https://www.twitch.tv/teomewhy)|Data Science|
 
 **[⬆ Voltar ao início](#teo-me-refs)**
@@ -70,6 +71,7 @@ Repositório para divulgação de material em Data Science, Programação e Esta
 |[Programação Dinâmica](https://www.youtube.com/channel/UC70mr11REaCqgKke7DPJoLg)|Data Science e Desenvolvimento de Software
 |[Seja Um Data Scientist](https://www.youtube.com/channel/UCar5Cr-pVz08GY_6I3RX9bA)|Data Science|
 |[Sigmoidal](https://www.youtube.com/user/darknessdobr)|Data Science|
+|[Spacedevs](https://www.youtube.com/channel/UCedHFDY78egBPEJXL2d8OiQ)|Desenvolvimento de Software|
 |[Téo Me Why](https://www.youtube.com/channel/UC-Xa9J9-B4jBOoBNIHkMMKA)|Data Science|
 |[Universo Programado](https://www.youtube.com/channel/UCf_kacKyoRRUP0nM3obzFbg)|IA e Desenvolvimento de Software|
 |[Walmes Zeviani](https://www.youtube.com/user/walmes)|R e Estatística|
@@ -177,6 +179,8 @@ Alguns perfis para seguir
 Mario Filho|[@mariofilhoml](https://www.instagram.com/mariofilhoml/)|[/mariofilho](https://www.linkedin.com/in/mariofilho/)|[@MarioFilhoCom](https://twitter.com/MarioFilhoCom)|
 |Meigarom Lopes|-|[/meigarom](https://www.linkedin.com/in/meigarom/?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAAazy44B0cQNwp2I0oq0SIVQRGDQseeySkg)|[@Meigarom](https://twitter.com/Meigarom)|
 |Raniere Ramos|[@oestatistico](https://www.instagram.com/oestatistico/)|[/raniereramos](https://www.linkedin.com/in/raniereramos/)|[@oestatisticoweb](https://twitter.com/oestatisticoweb)
+|Rodrigo Santana Ferreira||[/rodrigosantana](https://www.linkedin.com/in/rodrigo-santana-ferreira-0ab041128/)||
+|Spacedevs|||[@spadevs](https://twitter.com/spadevs)|
 |Téo Calvo|[@teo.calvo](https://www.instagram.com/teo.calvo)|[/teocalvo](https://www.linkedin.com/in/teocalvo/)|[@TeoCalvo](https://twitter.com/TeoCalvo)|
 |Thiago Marques|-|[/thiagoestatidados](https://www.linkedin.com/in/thiagoestatidados/)|-|
 
