@@ -89,7 +89,7 @@ Repositório para divulgação de material em Data Science, Programação e Esta
 **[⬆ Voltar ao início](#teo-me-refs)**
 ### Banco de dados
 
-[Introdução à Linguagem SQL: Abordagem Prática Para Iniciantes](https://www.amazon.com.br/Introdução-Linguagem-SQL-Abordagem-Iniciantes/dp/8575225014/ref=sr_1_1?__mk_pt_BR=ÅMÅŽÕÑ&keywords=sql+introdução&qid=1570312414&sr=8-1)
+[Introdução à Linguagem SQL: Abordagem Prática Para Iniciantes](https://amzn.to/31munYw)
 
 [Introdução ao Mongodb](https://www.amazon.com.br/Introdu%C3%A7%C3%A3o-ao-Mongodb-David-Hows/dp/8575224220/ref=sr_1_1?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=introdu%C3%A7%C3%A3o+ao+mongodb&qid=1570313994&sr=8-1)
 
@@ -180,7 +180,7 @@ Mario Filho|[@mariofilhoml](https://www.instagram.com/mariofilhoml/)|[/mariofilh
 |Meigarom Lopes|-|[/meigarom](https://www.linkedin.com/in/meigarom/?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAAazy44B0cQNwp2I0oq0SIVQRGDQseeySkg)|[@Meigarom](https://twitter.com/Meigarom)|
 |Raniere Ramos|[@oestatistico](https://www.instagram.com/oestatistico/)|[/raniereramos](https://www.linkedin.com/in/raniereramos/)|[@oestatisticoweb](https://twitter.com/oestatisticoweb)
 |Rodrigo Santana Ferreira||[/rodrigosantana](https://www.linkedin.com/in/rodrigo-santana-ferreira-0ab041128/)||
-|Spacedevs|||[@spadevs](https://twitter.com/spadevs)|
+|Spacedevs|[spacedevs](https://www.instagram.com/spacedevs/)||[@spadevs](https://twitter.com/spadevs)|
 |Téo Calvo|[@teo.calvo](https://www.instagram.com/teo.calvo)|[/teocalvo](https://www.linkedin.com/in/teocalvo/)|[@TeoCalvo](https://twitter.com/TeoCalvo)|
 |Thiago Marques|-|[/thiagoestatidados](https://www.linkedin.com/in/thiagoestatidados/)|-|
 
