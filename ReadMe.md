@@ -91,72 +91,72 @@ Repositório para divulgação de material em Data Science, Programação e Esta
 
 [Introdução à Linguagem SQL: Abordagem Prática Para Iniciantes](https://amzn.to/31munYw)
 
-[Introdução ao Mongodb](https://www.amazon.com.br/Introdu%C3%A7%C3%A3o-ao-Mongodb-David-Hows/dp/8575224220/ref=sr_1_1?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=introdu%C3%A7%C3%A3o+ao+mongodb&qid=1570313994&sr=8-1)
+[Introdução ao Mongodb](https://amzn.to/32hxobM)
 
 **[⬆ Voltar ao início](#teo-me-refs)**
 ### Estatística
 
-[Análise de Dados Através de Métodos de Estatística Multivariada. Uma Abordagem Aplicada](https://www.amazon.com.br/An%C3%A1lise-Estat%C3%ADstica-Multivariada-Abordagem-Aplicada/dp/857041451X/ref=sr_1_1?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=6VSO0G1KO7K9&keywords=analise+multivariada+sueli&qid=1589815241&sprefix=analise+mul%2Caps%2C268&sr=8-1)
+[Análise de Dados Através de Métodos de Estatística Multivariada. Uma Abordagem Aplicada](https://amzn.to/3grvs5j)
 
-[Análise de Modelos de Regressão Linear com Aplicações](https://www.amazon.com.br/An%C3%A1lise-Modelos-Regress%C3%A3o-Linear-Aplica%C3%A7%C3%B5es/dp/8526807803/ref=sr_1_1?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=regress%C3%A3o+linear&qid=1589739938&sr=8-1)
+[Análise de Modelos de Regressão Linear com Aplicações](https://amzn.to/3lajEbs)
 
-[Análise de Séries Temporais](https://www.amazon.com.br/An%C3%A1lise-S%C3%A9ries-Temporais-Pedro-Morettin/dp/8521203896/ref=sr_1_3?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=1LO2L74ZHMU53&keywords=an%C3%A1lise+de+s%C3%A9ries+temporais&qid=1589739988&sprefix=An%C3%A1lise+de+s%C3%A9ries+%2Caps%2C284&sr=8-3)
+[Análise de Séries Temporais](https://amzn.to/2Em46AP)
 
-[Análise de Sobrevivência Aplicada ](https://www.amazon.com.br/An%C3%A1lise-Sobreviv%C3%AAncia-Aplicada-Ant%C3%B4nio-Colosimo/dp/8521203845/ref=sr_1_1?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=An%C3%A1lise+de+sobrevivencia&qid=1570313561&sr=8-1)
+[Análise de Sobrevivência Aplicada](https://amzn.to/3hmOU4H)
 
-[Elementos de Amostragem](https://www.amazon.com.br/Elementos-Amostragem-Heleno-Bolfarine/dp/8521203675/ref=sr_1_1?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=elementos+de+amostragem&qid=1570313529&sr=8-1)
+[Elementos de Amostragem](https://amzn.to/3htng6g)
 
-[Estatística Básica](https://www.amazon.com.br/Estat%C3%ADstica-B%C3%A1sica-Wilton-Bussab/dp/8547220224/ref=sr_1_1?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=estat%C3%ADstica+b%C3%A1sica&qid=1570311928&sr=8-1)
+[Estatística Básica](https://amzn.to/3hojD14)
 
-[Estatística Prática Para Cientistas de Dados: 50 Conceitos Essenciais](https://www.amazon.com.br/Estat%C3%ADstica-Pr%C3%A1tica-Para-Cientistas-Dados/dp/855080603X/ref=sr_1_12?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=infer%C3%AAncia+estat%C3%ADstica&qid=1589740047&sr=8-12)
+[Estatística Prática Para Cientistas de Dados: 50 Conceitos Essenciais](https://amzn.to/2E9yi27)
 
-[Probabilidade - Aplicações à Estatística](https://www.amazon.com.br/Probabilidade-Aplica%C3%A7%C3%B5es-Estat%C3%ADstica-Paul-Meyer/dp/8521602944/ref=sr_1_1?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=probabilidade+paul+meyer&qid=1570312066&sr=8-1)
+[Probabilidade - Aplicações à Estatística](https://amzn.to/3jbeOcd)
 
-[Probabilidade: Um Curso Moderno com Aplicações](https://www.amazon.com.br/Probabilidade-Curso-Moderno-com-Aplica%C3%A7%C3%B5es/dp/8577806219/ref=sr_1_1?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=probabilidade+sheldon&qid=1570312087&sr=8-1)
+[Probabilidade: Um Curso Moderno com Aplicações](https://amzn.to/3labO1t)
 
 **[⬆ Voltar ao início](#teo-me-refs)**
 ### Machine Learning
 
-[Data Science do Zero](https://www.amazon.com.br/Data-Science-zero-Joel-Grus/dp/857608998X/ref=sr_1_4?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=python+introdu%C3%A7%C3%A3o+abordagem&qid=1570312120&sr=8-4)
+[Data Science do Zero](https://amzn.to/2ExJxkr)
 
-[Inteligência Artificial - Uma Abordagem de Aprendizado de Máquina](https://www.amazon.com.br/Inteligência-Artificial-Abordagem-Aprendizado-Máquina/dp/8521618808/ref=sr_1_1?__mk_pt_BR=ÅMÅŽÕÑ&keywords=abordagem+de+aprendixzado+de+máquina&qid=1570312349&sr=8-1-spell)
+[Inteligência Artificial - Uma Abordagem de Aprendizado de Máquina](https://amzn.to/32hAbBJ)
 
-[Machine Learning – Guia de Referência Rápida: Trabalhando com dados estruturados em Python](https://www.amazon.com.br/Machine-Learning-Refer%C3%AAncia-Trabalhando-estruturados-ebook/dp/B08255K2ZQ/ref=sr_1_3?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=machine+learning&qid=1588452787&sr=8-3)
+[Machine Learning – Guia de Referência Rápida: Trabalhando com dados estruturados em Python](https://amzn.to/2EmfI6G)
 
-[Mãos à Obra: Aprendizado de Máquina com Scikit-Learn & TensorFlow](https://www.amazon.com.br/M%C3%A3os-Obra-Aprendizado-Scikit-Learn-TensorFlow/dp/8550803812/ref=sr_1_1?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=machine+learning&qid=1588452787&sr=8-1)
+[Mãos à Obra: Aprendizado de Máquina com Scikit-Learn & TensorFlow](https://amzn.to/2CSlE6N)
 
 **[⬆ Voltar ao início](#teo-me-refs)**
 ### Programação
 
-[Programação Python 3](https://www.amazon.com.br/Programa%C3%A7%C3%A3o-em-Python-Mark-Summerfield/dp/8576083841/ref=sr_1_48?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=python&qid=1570312294&sr=8-48)
+[Programação Python 3](https://amzn.to/2CVgqaw)
 
-[Python Fluente: Programação Clara, Concisa e Eficaz](https://www.amazon.com.br/Python-Fluente-Programa%C3%A7%C3%A3o-Concisa-Eficaz/dp/857522462X/ref=sr_1_1?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=python+fluente&qid=1589740131&sr=8-1)
+[Python Fluente: Programação Clara, Concisa e Eficaz](https://amzn.to/2Qj5wi0)
 
-[Python Para Análise de Dados: Tratamento de Dados com Pandas, NumPy e IPython](https://www.amazon.com.br/Python-Para-An%C3%A1lise-Dados-Tratamento/dp/8575226479/ref=pd_sbs_14_4/140-3766347-0663132?_encoding=UTF8&pd_rd_i=8575226479&pd_rd_r=645da400-915a-4ee5-821c-4359f9026cb0&pd_rd_w=0elEi&pd_rd_wg=3O24W&pf_rd_p=80c6065d-57d3-41bf-b15e-ee01dd80424f&pf_rd_r=6JDB4TSS37T886NMQZCN&psc=1&refRID=6JDB4TSS37T886NMQZCN)
+[Python Para Análise de Dados: Tratamento de Dados com Pandas, NumPy e IPython](https://amzn.to/3j7H3s2)
 
-[Python Para Desenvolvedores](https://www.amazon.com.br/Python-Para-Desenvolvedores-Eduardo-Borges/dp/8575224050/ref=sr_1_1?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=python+para+desenvolvedores&qid=1570313599&sr=8-1)
+[Python Para Desenvolvedores](https://amzn.to/2YqX0l8)
 
-[Use a cabeça! Programação](https://www.amazon.com.br/Use-cabe%C3%A7a-Programa%C3%A7%C3%A3o-Paul-Barry/dp/8576084732/ref=sr_1_1?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=212N7L75958QF&keywords=use+a+cabe%C3%A7a+programa%C3%A7%C3%A3o&qid=1571594374&sprefix=use+a+cabe%C3%A7a+pro%2Caps%2C298&sr=8-1)
+[Use a cabeça! Programação](https://amzn.to/2YuIol4)
 
-[Web Scraping com Python: Coletando Mais Dados da web Moderna ](https://www.amazon.com.br/Web-Scraping-Com-Python-Coletando/dp/8575227300/ref=sr_1_1?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=web+scraping+com+python&qid=1589740421&sr=8-1)
+[Web Scraping com Python: Coletando Mais Dados da web Moderna ](https://amzn.to/31odA7r)
 
 **[⬆ Voltar ao início](#teo-me-refs)**
 ### Projetos e Equipes
 
-[Manual de Devops. Como Obter Agilidade, Confiabilidade e Segurança em Organizações Tecnológicas](https://www.amazon.com.br/Agilidade-Confiabilidade-Seguran%C3%A7a-Organiza%C3%A7%C3%B5es-Tecnol%C3%B3gicas/dp/8550802697/ref=sr_1_1?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=devops&qid=1571593894&s=books&sr=1-1)
+[Manual de Devops. Como Obter Agilidade, Confiabilidade e Segurança em Organizações Tecnológicas](https://amzn.to/31jJhPa)
 
-[O Mítico Homem-Mês. Ensaios Sobre Engenharia de Software](https://www.amazon.com.br/M%C3%ADtico-Homem-M%C3%AAs-Ensaios-Engenharia-Software/dp/8550802530/ref=sr_1_1?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2WJ2NK0APKSDF&keywords=mitico+homem+mes&qid=1571593976&s=books&sprefix=mitico+hom%2Cstripbooks%2C271&sr=1-1)
+[O Mítico Homem-Mês. Ensaios Sobre Engenharia de Software](https://amzn.to/34wi2TD)
 
-[O projeto fênix](https://www.amazon.com.br/projeto-f%C3%AAnix-Gene-Kim/dp/8550801895/ref=sr_1_2?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=devops&qid=1571593894&s=books&sr=1-2)
+[O projeto fênix](https://amzn.to/3aR4WS4)
 
-[Sprint. O Método Usado no Google Para Testar e Aplicar Novas Ideias em Apenas Cinco Dias](https://www.amazon.com.br/Sprint-M%C3%A9todo-Google-Testar-Aplicar/dp/8551001523/ref=sr_1_1?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=sprint&qid=1571594027&s=books&smid=A18CNA8NWQSYHH&sr=1-1)
+[Sprint. O Método Usado no Google Para Testar e Aplicar Novas Ideias em Apenas Cinco Dias](https://amzn.to/2QlKUoY)
 
 **[⬆ Voltar ao início](#teo-me-refs)**
 ### Utilitários
 
-[Introdução às Expressões Regulares](https://www.amazon.com.br/Introdu%C3%A7%C3%A3o-Express%C3%B5es-Regulares-Michael-Fitzgerald/dp/8575223305/ref=sr_1_2?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=regex&qid=1570313670&sr=8-2)
+[Introdução às Expressões Regulares](https://amzn.to/34oN8MC)
 
-[Git: Guia Prático](https://www.amazon.com.br/Git-Guia-Pr%C3%A1tico-Richard-Silverman-ebook/dp/B07QCCX7CX/ref=sr_1_2?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=git&qid=1570313754&sr=8-2)
+[Git: Guia Prático](https://amzn.to/3laXiXj)
 
 **[⬆ Voltar ao início](#teo-me-refs)**
 ## Perfis
