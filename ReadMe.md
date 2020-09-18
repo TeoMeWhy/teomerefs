@@ -24,6 +24,7 @@ Repositório para divulgação de material em Data Science, Programação e Esta
 |[ridiculas.wordpress.com](https://ridiculas.wordpress.com/)|R e Estatística|
 |[rladiesbh.com.br](https://rladiesbh.com.br/)|R|
 |[sejaumdatascientist.com](https://sejaumdatascientist.com/)|Data Science|
+|[woliveiras.com.br](https://woliveiras.com.br/)|Programação|
 
 **[⬆ Voltar ao início](#teo-me-refs)**
 ## Canais
@@ -49,6 +50,7 @@ Repositório para divulgação de material em Data Science, Programação e Esta
 |[o_gabsferreira](https://www.twitch.tv/o_gabsferreira/)|Data Science Desenvolvimento Web|
 |[spacedevs](https://www.twitch.tv/spacedevs)|Desenvolvimento de Software|
 |[teomewhy](https://www.twitch.tv/teomewhy)|Data Science|
+|[uillaz](https://www.twitch.tv/uillaz)|Desenvolvimento Web|
 
 **[⬆ Voltar ao início](#teo-me-refs)**
 ### YouTube
