@@ -39,12 +39,14 @@ Repositório para divulgação de material em Data Science, Programação e Esta
 |---|---|
 |[abelsiqueira](https://www.twitch.tv/abelsiqueira)|Data Science|
 |[ana_geek](https://www.twitch.tv/ana_geek)|Desenvolvimento de Games|
+|[athos_damiani](https://www.twitch.tv/athos_damiani)|Data Science|
 |[codeshow](https://www.twitch.tv/codeshow)|Desenvolvimento de Software|
 |[codigofalado](https://www.twitch.tv/codigofalado)|Desenvolvimento Web|
 |[dininho](https://www.twitch.tv/dininho)|Desenvolvimento de Games|
 |[eduardorfs](https://www.twitch.tv/eduardorfs)|Desenvolvimento de Software|
 |[glaucia_lemos86](https://www.twitch.tv/glaucia_lemos86)|Desenvolvimento Web|
 |[grsoares](https://www.twitch.tv/grsoares)|IA e Desenvolvimento de Software|
+|[jtrecenti](https://www.twitch.tv/jtrecenti)|Data Science|
 |[marcobrunodev](https://www.twitch.tv/marcobrunodev/)|Desenvolvimento Web|
 |[nomadcodemist](https://www.twitch.tv/nomadcodemist)|Desenvolvimento Web|
 |[o_gabsferreira](https://www.twitch.tv/o_gabsferreira/)|Data Science Desenvolvimento Web|
