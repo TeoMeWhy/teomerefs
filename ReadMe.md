@@ -123,6 +123,8 @@ Repositório para divulgação de material em Data Science, Programação e Esta
 
 [Inteligência Artificial - Uma Abordagem de Aprendizado de Máquina](https://amzn.to/32hAbBJ)
 
+[Introduction To Statistical Learning](http://www.ime.unicamp.br/~dias/Intoduction%20to%20Statistical%20Learning.pdf)
+
 [Machine Learning – Guia de Referência Rápida: Trabalhando com dados estruturados em Python](https://amzn.to/2EmfI6G)
 
 [Mãos à Obra: Aprendizado de Máquina com Scikit-Learn & TensorFlow](https://amzn.to/2CSlE6N)
