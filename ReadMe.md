@@ -12,18 +12,28 @@ Repositório para divulgação de material em Data Science, Programação e Esta
 |Site|Tema|
 |---|---|
 |[asn.rocks](https://asn.rocks/)|Estatística e Data Science|
+|[blogdoft.com.br](https://www.blogdoft.com.br/)|Desenvolvimento Web e Carreira|
+|[blog.rocketseat.com.br](https://blog.rocketseat.com.br/)|Desenvolvimento Web e Mobile|
 |[brasil.pyladies.com](https://brasil.pyladies.com/)|Python|
+|[braziljs.org](https://braziljs.org/)|JavaScript|
 |[curso-r.com](https://www.curso-r.com/)|R e Data Science|
 |[datahackers.com.br](https://datahackers.com.br/)|Data Science|
 |[estatisticafacil.org](http://estatisticafacil.org/)|Estatística|
 |[estatsite.com.br](http://estatsite.com.br/)|Data Science|
+|[felipefialho.com](https://www.felipefialho.com/)|Desenvolvimento Web|
 |[gabsferreira.com](http://gabsferreira.com/)|Tecnologia e Carreira|
+|[helpdev.com.br](https://helpdev.com.br/)|Programação|
+|[laraveling.tech](https://laraveling.tech/)|PHP|
+|[lorenakauane.com.br](https://lorenakauane.com.br/)|Desenvolvimento Web e Mobile|
+|[macoratti.net](http://www.macoratti.net/)|.NET|
+|[marcelamperes.wordpress.com](https://marcelamperes.wordpress.com/)|.NET e Design de Produto|
 |[oestatistico.com.br](https://oestatistico.com.br/)|Estatística|
 |[pizzadedados.com](https://pizzadedados.com/)|Data Science|
 |[portalaction.com.br](http://www.portalaction.com.br/)|Estatística|
 |[ridiculas.wordpress.com](https://ridiculas.wordpress.com/)|R e Estatística|
 |[rladiesbh.com.br](https://rladiesbh.com.br/)|R|
 |[sejaumdatascientist.com](https://sejaumdatascientist.com/)|Data Science|
+|[willianjusten.com.br](https://willianjusten.com.br/)|Desenvolvimento Web|
 |[woliveiras.com.br](https://woliveiras.com.br/)|Programação|
 
 **[⬆ Voltar ao início](#teo-me-refs)**
@@ -62,17 +72,23 @@ Repositório para divulgação de material em Data Science, Programação e Esta
 |[ASN.Rocks](https://www.youtube.com/channel/UCKkLm58oeFM77_MwfO06Mwg)|Estatística e Data Science|
 |[Azeiro Businees](https://www.youtube.com/channel/UCfTVUc_w9qJ-eLdeIQUynnw?fbclid=IwAR0hAm29c2O10OAPb5U-JLQ6rZam508oOoAJXmgCVx3t_ZlpksNDj_o37N4)|BI|
 |[Canal do Yukio](https://www.youtube.com/channel/UCZDVnGEyggjuo2kgpmXdzGA?fbclid=IwAR30d4LHLF0qridCUjaloZDg1HSNVtk_hzbof7ZY2yuR-vueEfi_U-AzC_Q)|Data Science|
+|[Carlos Levir](https://www.youtube.com/c/CarlosLevir)|Desenvolvimento de Software|
 |[CodeShow](https://www.youtube.com/user/brunovegan)|Desenvolvimento de Software|
 |[Curso-R](https://www.youtube.com/channel/UCTXuqtCYxPVEehq6fJY9GkA)|R e Data Science|
+|[E AI, Carla?](https://www.youtube.com/eaicarla)|IA e Data Science|
 |[Eduardo Mendes](https://www.youtube.com/user/mendesesduardo)|Desenvolvimento de Software|
 |[EstaTiDados](https://www.youtube.com/channel/UC4jROkPjTvnXRkuo2GAwKXw)|Data Science|
 |[Fábio Akita](https://www.youtube.com/channel/UCib793mnUOhWymCh2VJKplQ?fbclid=IwAR0UKydTeZa8GIz0H5qAgBPRD502kj9ZHFJesVUuUjp7c5QKE7m_3yBaQeM)|Desenvolvimento de Software|
 |[Filipe Deschamps](https://www.youtube.com/channel/UCU5JicSrEM5A63jkJ2QvGYw)|Desenvolvimento de Software|
 |[J!Quant](https://www.youtube.com/channel/UCrNTucu56jwzKJfUqsloSXQ)|Data Science|
+|[Larissa Falcão](https://www.youtube.com/c/LarissaFalc%C3%A3o)|Desenvolvimento de Software|
 |[Lucas Montano](https://www.youtube.com/channel/UCyHOBY6IDZF9zOKJPou2Rgg)|Desenvolvimento de Software
+|[Luis Filipe Pedroso](https://www.youtube.com/LuisFilipePedroso)|Desenvolvimento de Software|
 |[Mario Filho - Data Science](https://www.youtube.com/channel/UCIFd_i2iwYox1PPm9rD8wFA)|Data Science|
+|[Otavio Lemos](https://www.youtube.com/user/OtavioALLemos)|Desenvolvimento de Software|
 |[Outspoken Market](https://www.youtube.com/user/aitechinvest)|Data Science|
 |[Programação Dinâmica](https://www.youtube.com/channel/UC70mr11REaCqgKke7DPJoLg)|Data Science e Desenvolvimento de Software
+|[Rafaella Ballerini](https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q)|Desenvolvimento de Software|
 |[Seja Um Data Scientist](https://www.youtube.com/channel/UCar5Cr-pVz08GY_6I3RX9bA)|Data Science|
 |[Sigmoidal](https://www.youtube.com/user/darknessdobr)|Data Science|
 |[Spacedevs](https://www.youtube.com/channel/UCedHFDY78egBPEJXL2d8OiQ)|Desenvolvimento de Software|
@@ -200,3 +216,4 @@ Mario Filho|[@mariofilhoml](https://www.instagram.com/mariofilhoml/)|[/mariofilh
 |[Depois do Café](https://open.spotify.com/show/4cqX5o40bClwqtYHv9X7Lp?si=6ml1VsFaTTCmQ5UzkxyAyg)|Tecnologia e Carreira|
 |[Hipsters Ponto Tech](https://open.spotify.com/show/2p0Vx75OmfsXktyLBuLuSf?si=4x-AM7qRTgmZKu1AR96hKQ)|Tecnologia e Carreira|
 |[Pizza de Dados](https://podcast.pizzadedados.com/)|Data Science|
+|[Quebradev](https://quebradev.com.br/)|Tecnologia e Carreira|
