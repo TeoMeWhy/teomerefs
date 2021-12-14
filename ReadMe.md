@@ -82,6 +82,7 @@ Repositório para divulgação de material em Data Science, Programação e Esta
 |[Filipe Deschamps](https://www.youtube.com/channel/UCU5JicSrEM5A63jkJ2QvGYw)|Desenvolvimento de Software|
 |[J!Quant](https://www.youtube.com/channel/UCrNTucu56jwzKJfUqsloSXQ)|Data Science|
 |[Larissa Falcão](https://www.youtube.com/c/LarissaFalc%C3%A3o)|Desenvolvimento de Software|
+|[Lets Data](https://www.youtube.com/c/LetsDataAI)|Data Science|
 |[Lucas Montano](https://www.youtube.com/channel/UCyHOBY6IDZF9zOKJPou2Rgg)|Desenvolvimento de Software
 |[Luis Filipe Pedroso](https://www.youtube.com/LuisFilipePedroso)|Desenvolvimento de Software|
 |[Mario Filho - Data Science](https://www.youtube.com/channel/UCIFd_i2iwYox1PPm9rD8wFA)|Data Science|
