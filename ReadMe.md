@@ -109,76 +109,80 @@ Repositório para divulgação de material em Data Science, Programação e Esta
 **[⬆ Voltar ao início](#teo-me-refs)**
 ### Banco de dados
 
-[Introdução à Linguagem SQL: Abordagem Prática Para Iniciantes](https://amzn.to/3qBSNaI)
+[Introdução à Linguagem SQL: Abordagem Prática Para Iniciantes](https://amzn.to/3EU5Eff)
 
-[Introdução ao Mongodb](https://amzn.to/2ZqMJ8S)
+[Introdução ao Mongodb](https://amzn.to/320HLEa)
 
 **[⬆ Voltar ao início](#teo-me-refs)**
 ### Estatística
 
-[Análise de Dados Através de Métodos de Estatística Multivariada. Uma Abordagem Aplicada](https://amzn.to/3dqEEJs)
+[Análise de Dados Através de Métodos de Estatística Multivariada. Uma Abordagem Aplicada](https://amzn.to/3GHeMEx)
 
-[Análise de Modelos de Regressão Linear com Aplicações](https://amzn.to/3arZc2s)
+[Análise de Modelos de Regressão Linear com Aplicações](https://amzn.to/31ZmV8u)
 
-[Análise de Séries Temporais](https://amzn.to/3dmgVdq)
+[Análise de Séries Temporais](https://amzn.to/3oUK452)
 
-[Análise de Sobrevivência Aplicada](https://amzn.to/3s0Venk)
+[Análise de Sobrevivência Aplicada](https://amzn.to/3s8WFmW)
 
-[Elementos de Amostragem](https://amzn.to/3b8kktu)
+[Elementos de Amostragem](https://amzn.to/3pTC03y)
 
-[Estatística Básica](https://amzn.to/37kP9dl)
+[Estatística Básica](https://amzn.to/3EWm9HV)
 
-[Estatística Prática Para Cientistas de Dados: 50 Conceitos Essenciais](https://amzn.to/3pziHu1)
+[Estatística Prática Para Cientistas de Dados: 50 Conceitos Essenciais](https://amzn.to/3dMZxgY)
 
-[Probabilidade - Aplicações à Estatística](https://amzn.to/3s6MPP4)
+[Probabilidade - Aplicações à Estatística](https://amzn.to/3m3l3T6)
 
-[Probabilidade: Um Curso Moderno com Aplicações](https://amzn.to/3pziPcZ)
+[Probabilidade: Um Curso Moderno com Aplicações](https://amzn.to/3s3h1Os)
 
 **[⬆ Voltar ao início](#teo-me-refs)**
 ### Machine Learning
 
-[Data Science do Zero](https://amzn.to/2ZoADwP)
+[Data Science do Zero](https://amzn.to/320plDU)
 
-[Inteligência Artificial - Uma Abordagem de Aprendizado de Máquina](https://amzn.to/2NyAzbs)
+[Inteligência Artificial - Uma Abordagem de Aprendizado de Máquina](https://amzn.to/3ETCexZ)
 
 [Introduction To Statistical Learning](http://www.ime.unicamp.br/~dias/Intoduction%20to%20Statistical%20Learning.pdf)
 
-[Machine Learning – Guia de Referência Rápida: Trabalhando com dados estruturados em Python](https://amzn.to/3dkJk3t)
+[Machine Learning – Guia de Referência Rápida: Trabalhando com dados estruturados em Python](https://amzn.to/31UGDlD)
 
-[Mãos à Obra: Aprendizado de Máquina com Scikit-Learn & TensorFlow](https://amzn.to/2NyAO6m)
+[Mãos à Obra: Aprendizado de Máquina com Scikit-Learn & TensorFlow](https://amzn.to/3pX1wFe)
 
 **[⬆ Voltar ao início](#teo-me-refs)**
 ### Programação
 
-[Programação Python 3](https://amzn.to/2ZnKDqg)
+[Programação Python 3](https://amzn.to/3dPipfj)
 
-[Python Fluente: Programação Clara, Concisa e Eficaz](https://amzn.to/3b9XXnG)
+[Python Fluente: Programação Clara, Concisa e Eficaz](https://amzn.to/322T8f6)
 
-[Python Para Análise de Dados: Tratamento de Dados com Pandas, NumPy e IPython](https://amzn.to/3pwuJEL)
+[Python Para Análise de Dados: Tratamento de Dados com Pandas, NumPy e IPython](https://amzn.to/3IHKROx)
 
-[Python Para Desenvolvedores](https://amzn.to/2LYL1Za)
+[Python Para Desenvolvedores](https://amzn.to/3GFLh66)
 
-[Use a cabeça! Programação](https://amzn.to/3as04Eg)
+[Use a cabeça! Programação](https://amzn.to/3pTqhBZ)
 
-[Web Scraping com Python: Coletando Mais Dados da web Moderna ](https://amzn.to/2Zs61KY)
+[Web Scraping com Python: Coletando Mais Dados da web Moderna](https://amzn.to/3dQSELG)
 
 **[⬆ Voltar ao início](#teo-me-refs)**
-### Projetos e Equipes
+### Projetos, Equipes e Cultura
 
-[Manual de Devops. Como Obter Agilidade, Confiabilidade e Segurança em Organizações Tecnológicas](https://amzn.to/2ZqNyP0)
+[A Regra é Não Ter Regras: A Netflix e a Cultura da Reinvenção](https://amzn.to/3DSUrKS)
 
-[O Mítico Homem-Mês. Ensaios Sobre Engenharia de Software](https://amzn.to/3psh69r)
+[Manual de Devops. Como Obter Agilidade, Confiabilidade e Segurança em Organizações Tecnológicas](https://amzn.to/30sAr42)
 
-[O projeto fênix](https://amzn.to/3ashK2o)
+[O Mítico Homem-Mês. Ensaios Sobre Engenharia de Software](https://amzn.to/3yqHTcr)
 
-[Sprint. O Método Usado no Google Para Testar e Aplicar Novas Ideias em Apenas Cinco Dias](https://amzn.to/2OCsrXJ)
+[O projeto fênix](https://amzn.to/3pYnQOA)
+
+[O projeto unicórnio](https://amzn.to/3m3oOrN)
+
+[Sprint. O Método Usado no Google Para Testar e Aplicar Novas Ideias em Apenas Cinco Dias](https://amzn.to/3EZnLk3)
 
 **[⬆ Voltar ao início](#teo-me-refs)**
 ### Utilitários
 
-[Introdução às Expressões Regulares](https://amzn.to/3bjI5im)
+[Introdução às Expressões Regulares](https://amzn.to/3ETyI6E)
 
-[Git: Guia Prático](https://amzn.to/3dosm4b)
+[Git: Guia Prático](https://amzn.to/3EU4xw5)
 
 **[⬆ Voltar ao início](#teo-me-refs)**
 ## Perfis
