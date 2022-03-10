@@ -2,11 +2,46 @@
 
 Repositório para divulgação de material em Data Science, Programação e Estatística.
 
+* [Primeiros passos](#primeiros-passos)
 * [Blogs](#blogs--sites)
 * [Canais](#canais)
 * [Livros](#livros)
 * [Perfis](#perfis)
 * [Podcasts](#podcasts)
+
+## Primeiros passos
+
+
+```mermaid
+  graph LR;
+      A[Python Básico]-->B[Pandas + Matplotlib];
+      C[Lógica de Programação]-->B;
+      D[Estatística Básica]-->B;
+      D-->E[Teste de hipótese];
+      F[Probabilidade]-->B;
+      F-->E;
+      E-->G[Regressão Linear];
+      E-->H[Análise Multivariada];
+      B-->I[Sklearn + statmodels];
+      H-->I;
+      G-->I;
+      J[Banco de Dados SQL]-->K[Apache Spark];
+      L[Banco de Dados NoSQL]-->K;
+      I-->K;
+      M[GNU/Linux + Bash + Git + Docker];
+      click A "https://github.com/TeoCalvo/teomerefs/#programa%C3%A7%C3%A3o"
+      click C "https://github.com/TeoCalvo/teomerefs/#programa%C3%A7%C3%A3o"
+      click D "https://github.com/TeoCalvo/teomerefs/#estat%C3%ADstica"
+      click E "https://github.com/TeoCalvo/teomerefs/#estat%C3%ADstica"
+      click F "https://github.com/TeoCalvo/teomerefs/#estat%C3%ADstica"
+      click G "https://github.com/TeoCalvo/teomerefs/#estat%C3%ADstica"
+      click H "https://github.com/TeoCalvo/teomerefs/#estat%C3%ADstica"
+      click I "https://github.com/TeoCalvo/teomerefs/#machine-learning"
+      click J "https://github.com/TeoCalvo/teomerefs/#banco-de-dados"
+      click L "https://github.com/TeoCalvo/teomerefs/#banco-de-dados"
+      click M "https://github.com/TeoCalvo/teomerefs/#utilit%C3%A1rios"
+      
+```
 
 ## Blogs & Sites
 |Site|Tema|
