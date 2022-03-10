@@ -11,7 +11,7 @@ Repositório para divulgação de material em Data Science, Programação e Esta
 
 ## Primeiros passos
 
-Muito iniciantes tem dificuldade de visualizar o caminho de formação na área de dados. Tentando abstrair um pouco essa jornada, criamos o fluxo abaixo, onde tem-se as dependências de skills e temas.
+Muitos iniciantes tem dificuldade de visualizar o caminho de formação na área de dados. Tentando abstrair um pouco essa jornada, criamos o fluxo abaixo, onde tem-se as dependências de skills e temas.
 
 Desta forma, cada nó deste grafo pode receber interação para direcionar o material focado nesta disciplina.
 
