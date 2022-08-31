@@ -142,7 +142,7 @@ Desta forma, cada nó deste grafo pode receber interação para direcionar o mat
 * [Estatística](#estatística)
 * [Machine Learning](#machine-Learning)
 * [Programação](#programação)
-* [Projetos e Equipes](#projetos-e-equipes)
+* [Projetos e Equipes](#projetos-equipes-e-cultura)
 * [Utilitários](#utilitários)
 
 **[⬆ Voltar ao início](#teo-me-refs)**
