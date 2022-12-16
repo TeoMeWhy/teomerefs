@@ -112,22 +112,26 @@ Desta forma, cada nó deste grafo pode receber interação para direcionar o mat
 |[Canal do Yukio](https://www.youtube.com/channel/UCZDVnGEyggjuo2kgpmXdzGA?fbclid=IwAR30d4LHLF0qridCUjaloZDg1HSNVtk_hzbof7ZY2yuR-vueEfi_U-AzC_Q)|Data Science|
 |[Carlos Levir](https://www.youtube.com/c/CarlosLevir)|Desenvolvimento de Software|
 |[CodeShow](https://www.youtube.com/user/brunovegan)|Desenvolvimento de Software|
+|[Código Fonte TV](https://www.youtube.com/c/codigofontetv)|Tecnologia e Carreira
 |[Curso-R](https://www.youtube.com/channel/UCTXuqtCYxPVEehq6fJY9GkA)|R e Data Science|
 |[E AI, Carla?](https://www.youtube.com/eaicarla)|IA e Data Science|
 |[Eduardo Mendes](https://www.youtube.com/user/mendesesduardo)|Desenvolvimento de Software|
 |[EstaTiDados](https://www.youtube.com/channel/UC4jROkPjTvnXRkuo2GAwKXw)|Data Science|
 |[Fábio Akita](https://www.youtube.com/channel/UCib793mnUOhWymCh2VJKplQ?fbclid=IwAR0UKydTeZa8GIz0H5qAgBPRD502kj9ZHFJesVUuUjp7c5QKE7m_3yBaQeM)|Desenvolvimento de Software|
 |[Filipe Deschamps](https://www.youtube.com/channel/UCU5JicSrEM5A63jkJ2QvGYw)|Desenvolvimento de Software|
+|[Gabriel Pato](https://www.youtube.com/c/GabrielPato)|Tecnologia e Hacking|
 |[J!Quant](https://www.youtube.com/channel/UCrNTucu56jwzKJfUqsloSXQ)|Data Science|
 |[Larissa Falcão](https://www.youtube.com/c/LarissaFalc%C3%A3o)|Desenvolvimento de Software|
 |[Lets Data](https://www.youtube.com/c/LetsDataAI)|Data Science|
 |[Lucas Montano](https://www.youtube.com/channel/UCyHOBY6IDZF9zOKJPou2Rgg)|Desenvolvimento de Software
 |[Luis Filipe Pedroso](https://www.youtube.com/LuisFilipePedroso)|Desenvolvimento de Software|
 |[Mario Filho - Data Science](https://www.youtube.com/channel/UCIFd_i2iwYox1PPm9rD8wFA)|Data Science|
+|[Mayk Brito](https://www.youtube.com/c/MaykBrito)|Desenvolvimento de Software|
 |[Otavio Lemos](https://www.youtube.com/user/OtavioALLemos)|Desenvolvimento de Software|
 |[Outspoken Market](https://www.youtube.com/user/aitechinvest)|Data Science|
 |[Programação Dinâmica](https://www.youtube.com/channel/UC70mr11REaCqgKke7DPJoLg)|Data Science e Desenvolvimento de Software
 |[Rafaella Ballerini](https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q)|Desenvolvimento de Software|
+|[Rocketseat](https://www.youtube.com/c/RocketSeat)|Desenvolvimento de Software e Carreira
 |[Seja Um Data Scientist](https://www.youtube.com/channel/UCar5Cr-pVz08GY_6I3RX9bA)|Data Science|
 |[Sigmoidal](https://www.youtube.com/user/darknessdobr)|Data Science|
 |[Spacedevs](https://www.youtube.com/channel/UCedHFDY78egBPEJXL2d8OiQ)|Desenvolvimento de Software|
@@ -232,20 +236,26 @@ Alguns perfis para seguir
 |---|---|---|---|
 |Adriana Silva|[@dri_chispirita](https://www.instagram.com/dri_chispirita/)|[/adrianamms](https://www.linkedin.com/in/adrianamms/)|-|
 |Athos Damiani|[@athosdamiani](https://www.instagram.com/athosdamiani/)|[/athosdamiani](https://www.linkedin.com/in/athosdamiani/)|[@athos_damiani](https://twitter.com/athos_damiani)|
-|Bruno Rocha|[@codeshowbr](https://www.instagram.com/codeshowbr/)|[/rochacbruno](https://www.linkedin.com/in/rochacbruno/)|[@rochacbruno](https://twitter.com/rochacbruno)
+|Bruno Rocha|[@codeshowbr](https://www.instagram.com/codeshowbr/)|[/rochacbruno](https://www.linkedin.com/in/rochacbruno/)|[@rochacbruno](https://twitter.com/rochacbruno)|
+|Código Fonte TV|[@codigofontetv](https://www.instagram.com/codigofontetv/)|-|[@siteCodigoFonte](https://twitter.com/siteCodigoFonte)|
+|Fabio Akita|[@akitaonrails](https://www.instagram.com/akitaonrails/)|[/akitaonrails](https://www.linkedin.com/in/filipedeschamps/)|[@AkitaOnRails](https://twitter.com/AkitaOnRails)|
 |Filipe Deschamps|[@filipedeschamps](https://www.instagram.com/filipedeschamps/)|[/filipedeschamps](https://www.linkedin.com/in/filipedeschamps/)|[@FilipeDeschamps](https://twitter.com/FilipeDeschamps)|
 |Gabs Ferreira|[@o_gabsferreira](https://www.instagram.com/o_gabsferreira/)|[/gabsferreira](https://www.linkedin.com/in/gabsferreira/)|[@o_gabsferreira](https://twitter.com/o_gabsferreira)|
+|Gabriel Pato|[@gabrielpato](https://www.instagram.com/gabrielpato/)|[/gabrielpato1](https://www.linkedin.com/in/gabrielpato1/)|[@gabrielpato](https://twitter.com/gabrielpato)|
 |Glaucia Lemos|[@glaucia.lemos.dev](https://www.instagram.com/glaucia.lemos.dev/)|[/glaucialemos](https://www.linkedin.com/in/glaucialemos/)|[@glaucia_lemos86](https://twitter.com/glaucia_lemos86)
 |Jayme Anchante|-|[/jaymeanchante](https://www.linkedin.com/in/jaymeanchante/)|-|
 |Joao Paulo Nogueira|-|[/joaopaulonogueira](https://www.linkedin.com/in/joaopaulonogueira/)|[@joaopcnogueira](https://twitter.com/joaopcnogueira)|
 |Julio Trecenti|-|[/jtrecenti](https://www.linkedin.com/in/jtrecenti/)|[@jtrecenti](https://twitter.com/jtrecenti)|
 |Kizzy Terra|[@kizzy_terra](https://www.instagram.com/kizzy_terra/)|[/kizzyterra](https://www.linkedin.com/in/kizzyterra/)|[@kizzy_terra](https://twitter.com/kizzy_terra)|
 |Lucas Montano|[@lucasmontano](https://www.instagram.com/lucasmontano/)|[/lucasmontano](https://www.linkedin.com/in/lucasmontano/)|[@lucas_montano](https://twitter.com/lucas_montano)|
-Mario Filho|[@mariofilhoml](https://www.instagram.com/mariofilhoml/)|[/mariofilho](https://www.linkedin.com/in/mariofilho/)|[@MarioFilhoCom](https://twitter.com/MarioFilhoCom)|
+|Mario Filho|[@mariofilhoml](https://www.instagram.com/mariofilhoml/)|[/mariofilho](https://www.linkedin.com/in/mariofilho/)|[@MarioFilhoCom](https://twitter.com/MarioFilhoCom)|
+|Mayk Brito|[@maykbrito](https://www.instagram.com/maykbrito/)|[/maykbrito](https://www.linkedin.com/in/maykbrito/)|[@maykbrito](https://twitter.com/maykbrito)|
 |Meigarom Lopes|-|[/meigarom](https://www.linkedin.com/in/meigarom/?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAAazy44B0cQNwp2I0oq0SIVQRGDQseeySkg)|[@Meigarom](https://twitter.com/Meigarom)|
-|Raniere Ramos|[@oestatistico](https://www.instagram.com/oestatistico/)|[/raniereramos](https://www.linkedin.com/in/raniereramos/)|[@oestatisticoweb](https://twitter.com/oestatisticoweb)
-|Rodrigo Santana Ferreira||[/rodrigosantana](https://www.linkedin.com/in/rodrigo-santana-ferreira-0ab041128/)||
-|Spacedevs|[spacedevs](https://www.instagram.com/spacedevs/)||[@spadevs](https://twitter.com/spadevs)|
+|Rafaella Ballerini|[@rafaballerini](https://www.instagram.com/rafaballerini/)|[/rafaellaballerini](https://www.linkedin.com/in/rafaellaballerini/)|[@ballerinirafa](https://twitter.com/ballerinirafa)|
+|Raniere Ramos|[@oestatistico](https://www.instagram.com/oestatistico/)|[/raniereramos](https://www.linkedin.com/in/raniereramos/)|[@oestatisticoweb](https://twitter.com/oestatisticoweb)|
+|Rocketseat|[@rocketseat_oficial](https://www.instagram.com/rocketseat_oficial/)|[/rocketseat](https://www.linkedin.com/school/rocketseat/)|[@rocketseat](https://twitter.com/rocketseat)|
+|Rodrigo Santana Ferreira|-|[/rodrigosantana](https://www.linkedin.com/in/rodrigo-santana-ferreira-0ab041128/)|-|
+|Spacedevs|[spacedevs](https://www.instagram.com/spacedevs/)|-|[@spadevs](https://twitter.com/spadevs)|
 |Téo Calvo|[@teo.calvo](https://www.instagram.com/teo.calvo)|[/teocalvo](https://www.linkedin.com/in/teocalvo/)|[@TeoCalvo](https://twitter.com/TeoCalvo)|
 |Thiago Marques|-|[/thiagoestatidados](https://www.linkedin.com/in/thiagoestatidados/)|-|
 
@@ -259,4 +269,5 @@ Mario Filho|[@mariofilhoml](https://www.instagram.com/mariofilhoml/)|[/mariofilh
 |[Depois do Café](https://open.spotify.com/show/4cqX5o40bClwqtYHv9X7Lp?si=6ml1VsFaTTCmQ5UzkxyAyg)|Tecnologia e Carreira|
 |[Hipsters Ponto Tech](https://open.spotify.com/show/2p0Vx75OmfsXktyLBuLuSf?si=4x-AM7qRTgmZKu1AR96hKQ)|Tecnologia e Carreira|
 |[Pizza de Dados](https://podcast.pizzadedados.com/)|Data Science|
+|[PrimoTech](https://open.spotify.com/show/29eSlP6rJWrsX4O1SZ8J0z?si=21f1338c01034231)|Tecnologia e Carreira
 |[Quebradev](https://quebradev.com.br/)|Tecnologia e Carreira|
