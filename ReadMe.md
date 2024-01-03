@@ -49,6 +49,7 @@ Desta forma, cada nó deste grafo pode receber interação para direcionar o mat
 ## Temas
 
 * [Banco de dados](#banco-de-dados)
+* [Data Lakes](#data-lakes)
 * [Estatística](#estatística)
 * [Machine Learning](#machine-Learning)
 * [Programação](#programação)
@@ -63,8 +64,20 @@ Desta forma, cada nó deste grafo pode receber interação para direcionar o mat
 
 #### Cursos
 - [Descomplicando SQL - LinuxTips feat. Téo Me Why](https://www.linuxtips.io/course/descomplicando-sql)
-- [Trilha SQL - Téo Me Why](https://www.twitch.tv/collections/IkuI3yO-ShZO-g)
 - [SQL - Dados GC](https://www.twitch.tv/collections/1GD1BC-Y3BbhgA)
+- [Trilha SQL - Téo Me Why](https://www.twitch.tv/collections/IkuI3yO-ShZO-g)
+
+### Data Lakes
+
+#### Livros
+- [Data Mesh: Entregando valor em escala e orientado a dados](https://amzn.to/3RF7gkK)
+- [Learning Spark: Lightning-Fast Data Analytics](https://amzn.to/4aFpyLt)
+- [Stream Processing with Apache Spark: Mastering Structured Streaming and Spark Streaming](https://amzn.to/3NOrI1o)
+
+#### Cursos
+[Data SUS - Téo Me Why](https://www.twitch.tv/collections/E82inP8ZcRfmWg)
+[IGDB - Teo Me Why](https://www.twitch.tv/collections/D8xJ12cDZBe_lQ)
+[The International - Teo Me Why](https://www.twitch.tv/collections/3DNdc7JXdxccWg)
 
 ### Estatística
 
