@@ -136,7 +136,7 @@ Desta forma, cada nó deste grafo pode receber interação para direcionar o mat
 |[Walmes Zeviani](https://www.youtube.com/user/walmes)|R e Estatística|
 
 **[⬆ Voltar ao início](#teo-me-refs)**
-## Livros
+## Temas
 
 * [Banco de dados](#banco-de-dados)
 * [Estatística](#estatística)
@@ -148,80 +148,80 @@ Desta forma, cada nó deste grafo pode receber interação para direcionar o mat
 **[⬆ Voltar ao início](#teo-me-refs)**
 ### Banco de dados
 
-[Introdução à Linguagem SQL: Abordagem Prática Para Iniciantes](https://amzn.to/3EU5Eff)
+#### Livros
+- [Introdução à Linguagem SQL: Abordagem Prática Para Iniciantes](https://amzn.to/3EU5Eff)
+- [Introdução ao Mongodb](https://amzn.to/320HLEa)
 
-[Introdução ao Mongodb](https://amzn.to/320HLEa)
+#### Cursos
+- [Descomplicando SQL - LinuxTips feat. Téo Me Why](https://www.linuxtips.io/course/descomplicando-sql)
+- [Trilha SQL - Téo Me Why](https://www.twitch.tv/collections/IkuI3yO-ShZO-g)
+- [SQL - Dados GC](https://www.twitch.tv/collections/1GD1BC-Y3BbhgA)
 
 **[⬆ Voltar ao início](#teo-me-refs)**
 ### Estatística
 
-[Análise de Dados Através de Métodos de Estatística Multivariada. Uma Abordagem Aplicada](https://amzn.to/3GHeMEx)
+#### Livros
+- [Análise de Dados Através de Métodos de Estatística Multivariada. Uma Abordagem Aplicada](https://amzn.to/3GHeMEx)
+- [Análise de Modelos de Regressão Linear com Aplicações](https://amzn.to/31ZmV8u)
+- [Análise de Séries Temporais](https://amzn.to/3oUK452)
+- [Análise de Sobrevivência Aplicada](https://amzn.to/3s8WFmW)
+- [Elementos de Amostragem](https://amzn.to/3pTC03y)
+- [Estatística Básica](https://amzn.to/3EWm9HV)
+- [Estatística Prática Para Cientistas de Dados: 50 Conceitos Essenciais](https://amzn.to/3dMZxgY)
+- [Probabilidade - Aplicações à Estatística](https://amzn.to/3m3l3T6)
+- [Probabilidade: Um Curso Moderno com Aplicações](https://amzn.to/3s3h1Os)
 
-[Análise de Modelos de Regressão Linear com Aplicações](https://amzn.to/31ZmV8u)
-
-[Análise de Séries Temporais](https://amzn.to/3oUK452)
-
-[Análise de Sobrevivência Aplicada](https://amzn.to/3s8WFmW)
-
-[Elementos de Amostragem](https://amzn.to/3pTC03y)
-
-[Estatística Básica](https://amzn.to/3EWm9HV)
-
-[Estatística Prática Para Cientistas de Dados: 50 Conceitos Essenciais](https://amzn.to/3dMZxgY)
-
-[Probabilidade - Aplicações à Estatística](https://amzn.to/3m3l3T6)
-
-[Probabilidade: Um Curso Moderno com Aplicações](https://amzn.to/3s3h1Os)
+#### Cursos
+- [Estatística para Você - Téo Me Why](https://www.twitch.tv/collections/GnvvyiEhhBdCuA)
 
 **[⬆ Voltar ao início](#teo-me-refs)**
 ### Machine Learning
 
-[Data Science do Zero](https://amzn.to/320plDU)
+#### Livros
+- [Data Science do Zero](https://amzn.to/320plDU)
+- [Inteligência Artificial - Uma Abordagem de Aprendizado de Máquina](https://amzn.to/3ETCexZ)
+- [Introduction To Statistical Learning](http://www.ime.unicamp.br/~dias/Intoduction%20to%20Statistical%20Learning.pdf)
+- [Machine Learning – Guia de Referência Rápida: Trabalhando com dados estruturados em Python](https://amzn.to/31UGDlD)
+- [Mãos à Obra: Aprendizado de Máquina com Scikit-Learn & TensorFlow](https://amzn.to/3pX1wFe)
 
-[Inteligência Artificial - Uma Abordagem de Aprendizado de Máquina](https://amzn.to/3ETCexZ)
-
-[Introduction To Statistical Learning](http://www.ime.unicamp.br/~dias/Intoduction%20to%20Statistical%20Learning.pdf)
-
-[Machine Learning – Guia de Referência Rápida: Trabalhando com dados estruturados em Python](https://amzn.to/31UGDlD)
-
-[Mãos à Obra: Aprendizado de Máquina com Scikit-Learn & TensorFlow](https://amzn.to/3pX1wFe)
+#### Cursos
+- [Introdução à Machine Learning - Téo Me Why](https://www.twitch.tv/collections/vrRnPxxEgxYPpg)
+- [Projeto Assinaturas - Téo Me Why](https://www.twitch.tv/collections/xDcbIHun4xYMFA)
+- [Churn Assinaturas GC - Téo Me Why](https://www.twitch.tv/collections/-iVyOjw2ARc93A)
+- [Machine Learing do início ao fim - Téo Me Why](https://www.twitch.tv/collections/sG1UU3C2UheIPg)
 
 **[⬆ Voltar ao início](#teo-me-refs)**
 ### Programação
 
-[Programação Python 3](https://amzn.to/3dPipfj)
+#### Livros
+- [Programação Python 3](https://amzn.to/3dPipfj)
+- [Python Fluente: Programação Clara, Concisa e Eficaz](https://amzn.to/322T8f6)
+- [Python Para Análise de Dados: Tratamento de Dados com Pandas, NumPy e IPython](https://amzn.to/3IHKROx)
+- [Python Para Desenvolvedores](https://amzn.to/3GFLh66)
+- [Use a cabeça! Programação](https://amzn.to/3pTqhBZ)
+- [Web Scraping com Python: Coletando Mais Dados da web Moderna](https://amzn.to/3dQSELG)
 
-[Python Fluente: Programação Clara, Concisa e Eficaz](https://amzn.to/322T8f6)
-
-[Python Para Análise de Dados: Tratamento de Dados com Pandas, NumPy e IPython](https://amzn.to/3IHKROx)
-
-[Python Para Desenvolvedores](https://amzn.to/3GFLh66)
-
-[Use a cabeça! Programação](https://amzn.to/3pTqhBZ)
-
-[Web Scraping com Python: Coletando Mais Dados da web Moderna](https://amzn.to/3dQSELG)
+#### Cursos
+- [Introdução à Programação com Python - Teo Me Why](https://www.twitch.tv/collections/KsRwA0OEbhd_Gw)
+- [Desbravando Pandas - Téo Me Why](https://www.twitch.tv/collections/Y1BKVydmeRe1YQ)
 
 **[⬆ Voltar ao início](#teo-me-refs)**
 ### Projetos, Equipes e Cultura
 
-[A Regra é Não Ter Regras: A Netflix e a Cultura da Reinvenção](https://amzn.to/3DSUrKS)
-
-[Manual de Devops. Como Obter Agilidade, Confiabilidade e Segurança em Organizações Tecnológicas](https://amzn.to/30sAr42)
-
-[O Mítico Homem-Mês. Ensaios Sobre Engenharia de Software](https://amzn.to/3yqHTcr)
-
-[O projeto fênix](https://amzn.to/3pYnQOA)
-
-[O projeto unicórnio](https://amzn.to/3m3oOrN)
-
-[Sprint. O Método Usado no Google Para Testar e Aplicar Novas Ideias em Apenas Cinco Dias](https://amzn.to/3EZnLk3)
+#### Livros
+- [A Regra é Não Ter Regras: A Netflix e a Cultura da Reinvenção](https://amzn.to/3DSUrKS)
+- [Manual de Devops. Como Obter Agilidade, Confiabilidade e Segurança em Organizações Tecnológicas](https://amzn.to/30sAr42)
+- [O Mítico Homem-Mês. Ensaios Sobre Engenharia de Software](https://amzn.to/3yqHTcr)
+- [O projeto fênix](https://amzn.to/3pYnQOA)
+- [O projeto unicórnio](https://amzn.to/3m3oOrN)
+- [Sprint. O Método Usado no Google Para Testar e Aplicar Novas Ideias em Apenas Cinco Dias](https://amzn.to/3EZnLk3)
 
 **[⬆ Voltar ao início](#teo-me-refs)**
 ### Utilitários
 
-[Introdução às Expressões Regulares](https://amzn.to/3ETyI6E)
-
-[Git: Guia Prático](https://amzn.to/3EU4xw5)
+#### Livros
+- [Introdução às Expressões Regulares](https://amzn.to/3ETyI6E)
+- [Git: Guia Prático](https://amzn.to/3EU4xw5)
 
 **[⬆ Voltar ao início](#teo-me-refs)**
 ## Perfis
