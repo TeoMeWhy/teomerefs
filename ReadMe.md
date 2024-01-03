@@ -63,9 +63,11 @@ Desta forma, cada nó deste grafo pode receber interação para direcionar o mat
 - [Introdução ao Mongodb](https://amzn.to/320HLEa)
 
 #### Cursos
-- [Descomplicando SQL - LinuxTips feat. Téo Me Why](https://www.linuxtips.io/course/descomplicando-sql)
-- [SQL - Dados GC](https://www.twitch.tv/collections/1GD1BC-Y3BbhgA)
-- [Trilha SQL - Téo Me Why](https://www.twitch.tv/collections/IkuI3yO-ShZO-g)
+|Nome|Sobre|Autoria|Nível|Duração|
+|:--:|:---:|:-----:|:---:|:---:|
+|[Descomplicando SQL](https://www.linuxtips.io/course/descomplicando-sql)| Curso completo de SQL com Databricks | [LinuxTips](https://twitter.com/LINUXtipsBR) feat. [Téo Me Why](twitch.tv/teomewhy) | Iniciante | 15:00 |
+|[SQL - Dados GC](https://www.twitch.tv/collections/1GD1BC-Y3BbhgA)| Curso básico de SQL com dados da Gamers Club | [Téo Me Why](twitch.tv/teomewhy) | Iniciante | 07:39 |
+|[Trilha SQL - Téo Me Why](https://www.twitch.tv/collections/IkuI3yO-ShZO-g)| Primeiro curso de SQL do canal, utilizando dados da Olist	| [Téo Me Why](twitch.tv/teomewhy) | Iniciante | 13:45 |
 
 ### Data Lakes
 
@@ -75,9 +77,11 @@ Desta forma, cada nó deste grafo pode receber interação para direcionar o mat
 - [Stream Processing with Apache Spark: Mastering Structured Streaming and Spark Streaming](https://amzn.to/3NOrI1o)
 
 #### Cursos
-- [Data SUS - Téo Me Why](https://www.twitch.tv/collections/E82inP8ZcRfmWg)
-- [IGDB - Teo Me Why](https://www.twitch.tv/collections/D8xJ12cDZBe_lQ)
-- [The International - Teo Me Why](https://www.twitch.tv/collections/3DNdc7JXdxccWg)
+|Nome|Sobre|Autoria|Nível|Duração|
+|:--:|:---:|:-----:|:---:|:---:|
+|[Data SUS](https://www.twitch.tv/collections/E82inP8ZcRfmWg)|Coleta e tratamento dos dados do Data SUS| [Téo Me Why](twitch.tv/teomewhy)| Intermediário | 07:32 |
+|[IGDB](https://www.twitch.tv/collections/D8xJ12cDZBe_lQ)| Consumo de dados da API IGDB, catálogo de todos os jogos já lançados no mundo e seus respectivas informações: empresas, thema, modo, notas, etc. | [Téo Me Why](twitch.tv/teomewhy) | Avançado | 33:22 |
+| [The International](https://www.twitch.tv/collections/3DNdc7JXdxccWg) | Consumo de dados de Dota2 para predições de partida | [Téo Me Why](twitch.tv/teomewhy) | Intermediário | 06:22 |
 
 ### Estatística
 
@@ -93,7 +97,9 @@ Desta forma, cada nó deste grafo pode receber interação para direcionar o mat
 - [Probabilidade: Um Curso Moderno com Aplicações](https://amzn.to/3s3h1Os)
 
 #### Cursos
-- [Estatística para Você - Téo Me Why](https://www.twitch.tv/collections/GnvvyiEhhBdCuA)
+|Nome|Sobre|Autoria|Nível|Duração|
+|:--:|:---:|:-----:|:---:|:-----:|
+|[Estatística para Você](https://www.twitch.tv/collections/GnvvyiEhhBdCuA)| Curso de Estatística Básica | [Téo Me Why](twitch.tv/teomewhy) | Iniciante | 12:48 |
 
 ### Machine Learning
 
@@ -105,10 +111,12 @@ Desta forma, cada nó deste grafo pode receber interação para direcionar o mat
 - [Mãos à Obra: Aprendizado de Máquina com Scikit-Learn & TensorFlow](https://amzn.to/3pX1wFe)
 
 #### Cursos
-- [Introdução à Machine Learning - Téo Me Why](https://www.twitch.tv/collections/vrRnPxxEgxYPpg)
-- [Projeto Assinaturas - Téo Me Why](https://www.twitch.tv/collections/xDcbIHun4xYMFA)
-- [Churn Assinaturas GC - Téo Me Why](https://www.twitch.tv/collections/-iVyOjw2ARc93A)
-- [Machine Learing do início ao fim - Téo Me Why](https://www.twitch.tv/collections/sG1UU3C2UheIPg)
+|Nome|Sobre|Autoria|Nível|Duração|
+|:--:|:---:|:-----:|:---:|:-----:|
+|[Introdução à Machine Learning](https://www.twitch.tv/collections/vrRnPxxEgxYPpg)| Curso básico de introdução à Machine Learning | [Téo Me Why](twitch.tv/teomewhy) | Iniciante | 05:41 | 
+|[Projeto Assinaturas](https://www.twitch.tv/collections/xDcbIHun4xYMFA)| Curso de Machine Learning com predição de novas assinaturas utilizando dados da Gamers Club | [Téo Me Why](twitch.tv/teomewhy) | Intermediário | 12:04 |
+| [Churn Assinaturas GC](https://www.twitch.tv/collections/-iVyOjw2ARc93A)| Curso de Machine Learning utilizando dados de Assinaturas da Gamers Club | [Téo Me Why](twitch.tv/teomewhy) | Intermediário | 10:32 |
+|[Machine Learing do início ao fim - Téo Me Why](https://www.twitch.tv/collections/sG1UU3C2UheIPg)| Curso apresentando um ciclo de Machine Learning do começo ao fim em um projeto prático em formato de curso | [Téo Me Why](twitch.tv/teomewhy) | Intermediário | 24:10 | 
 
 ### Programação
 
@@ -121,8 +129,10 @@ Desta forma, cada nó deste grafo pode receber interação para direcionar o mat
 - [Web Scraping com Python: Coletando Mais Dados da web Moderna](https://amzn.to/3dQSELG)
 
 #### Cursos
-- [Introdução à Programação com Python - Teo Me Why](https://www.twitch.tv/collections/KsRwA0OEbhd_Gw)
-- [Desbravando Pandas - Téo Me Why](https://www.twitch.tv/collections/Y1BKVydmeRe1YQ)
+|Nome|Sobre|Autoria|Nível|Duração|
+|:--:|:---:|:-----:|:---:|:-----:|
+|[Introdução à Programação com Python](https://www.twitch.tv/collections/KsRwA0OEbhd_Gw)| Curso introdutório para iniciantes em programação utilizando Python	| [Téo Me Why](twitch.tv/teomewhy) | Iniciante | 16:53 |
+| [Desbravando Pandas](https://www.twitch.tv/collections/Y1BKVydmeRe1YQ)| Treinamento de Pandas para análise e manipulação de dados	| [Téo Me Why](twitch.tv/teomewhy) | Iniciante | 12:42 |
 
 ### Projetos, Equipes e Cultura
 
