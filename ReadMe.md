@@ -75,9 +75,9 @@ Desta forma, cada nó deste grafo pode receber interação para direcionar o mat
 - [Stream Processing with Apache Spark: Mastering Structured Streaming and Spark Streaming](https://amzn.to/3NOrI1o)
 
 #### Cursos
-[Data SUS - Téo Me Why](https://www.twitch.tv/collections/E82inP8ZcRfmWg)
-[IGDB - Teo Me Why](https://www.twitch.tv/collections/D8xJ12cDZBe_lQ)
-[The International - Teo Me Why](https://www.twitch.tv/collections/3DNdc7JXdxccWg)
+- [Data SUS - Téo Me Why](https://www.twitch.tv/collections/E82inP8ZcRfmWg)
+- [IGDB - Teo Me Why](https://www.twitch.tv/collections/D8xJ12cDZBe_lQ)
+- [The International - Teo Me Why](https://www.twitch.tv/collections/3DNdc7JXdxccWg)
 
 ### Estatística
 
