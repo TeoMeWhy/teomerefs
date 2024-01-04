@@ -160,6 +160,7 @@ Desta forma, cada nó deste grafo pode receber interação para direcionar o mat
 |[brasil.pyladies.com](https://brasil.pyladies.com/)|Python|
 |[braziljs.org](https://braziljs.org/)|JavaScript|
 |[curso-r.com](https://www.curso-r.com/)|R e Data Science|
+|[CodeShow](https://codeshow.com.br)|Programação|
 |[datahackers.com.br](https://datahackers.com.br/)|Data Science|
 |[estatisticafacil.org](http://estatisticafacil.org/)|Estatística|
 |[estatsite.com.br](http://estatsite.com.br/)|Data Science|
@@ -189,7 +190,8 @@ Alguns perfis para acompanhar
 |Adriana Silva|[@dri_chispirita](https://www.instagram.com/dri_chispirita/)|[/adrianamms](https://www.linkedin.com/in/adrianamms/)|-| [@asnrocks](https://www.youtube.com/@asnrocks)|-|
 |António Júnior|[@mentordedados](https://www.instagram.com/mentordedados/)|[/acsjunior](https://www.linkedin.com/in/acsjunior/)|-|[@mentordedados](https://www.youtube.com/@mentordedados)|-|
 |Athos Damiani|[@athosdamiani](https://www.instagram.com/athosdamiani/)|[/athosdamiani](https://www.linkedin.com/in/athosdamiani/)|[@athos_damiani](https://twitter.com/athos_damiani)|-|-|
-|Bruno Rocha|[@codeshowbr](https://www.instagram.com/codeshowbr/)|[/rochacbruno](https://www.linkedin.com/in/rochacbruno/)|[@rochacbruno](https://twitter.com/rochacbruno)|[@rochacbruno](https://www.youtube.com/@rochacbruno)|-|
+|Bruno Rocha|[@rochacbruno](https://www.instagram.com/rochacbruno/)|[/rochacbruno](https://www.linkedin.com/in/rochacbruno/)|[@rochacbruno](https://twitter.com/rochacbruno)|[@rochacbruno](https://www.youtube.com/@rochacbruno)|-|
+|CodeShow|[@codeshowbr](https://instagram.com/codeshowbr)|[/company/codeshow](https://www.linkedin.com/company/codeshow/)|[@codeshowbr](https://twitter.com/codeshowbr)|[@codeshowbr](https://youtube.com/CodeShowBR)|[@codeshow](https://twitch.tv/codeshow)|
 |Filipe Deschamps|[@filipedeschamps](https://www.instagram.com/filipedeschamps/)|[/filipedeschamps](https://www.linkedin.com/in/filipedeschamps/)|[@FilipeDeschamps](https://twitter.com/FilipeDeschamps)|[@FilipeDeschamps](https://www.youtube.com/@FilipeDeschamps)|-|
 |Gabs Ferreira|[@o_gabsferreira](https://www.instagram.com/o_gabsferreira/)|[/gabsferreira](https://www.linkedin.com/in/gabsferreira/)|[@o_gabsferreira](https://twitter.com/o_gabsferreira)|[@GabsFerreira](https://www.youtube.com/@GabsFerreira)|-|
 |Glaucia Lemos|[@glaucia.lemos.dev](https://www.instagram.com/glaucia.lemos.dev/)|[/glaucialemos](https://www.linkedin.com/in/glaucialemos/)|[@glaucia_lemos86](https://twitter.com/glaucia_lemos86)|[@GlauciaLemos](https://www.youtube.com/@GlauciaLemos)|-|
