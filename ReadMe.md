@@ -14,6 +14,8 @@ Muitos iniciantes tem dificuldade de visualizar o caminho de formação na área
 
 Desta forma, cada nó deste grafo pode receber interação para direcionar o material focado nesta disciplina.
 
+E ah, você pode usar [essa planilha](https://docs.google.com/spreadsheets/d/1RpGhP2MDjTiyc7TgnrTHCLKMigEvn2x_tGJw8HDkj24/edit?usp=sharing) para definir seus planos de estudos ao mapear as habilidades em que precisa se desenvolver mais para alcançar seus objetivos: [clique aqui](https://docs.google.com/spreadsheets/d/1RpGhP2MDjTiyc7TgnrTHCLKMigEvn2x_tGJw8HDkj24/edit?usp=sharing)
+
 ```mermaid
   graph LR;
       A[Python Básico]-->B[Pandas + Matplotlib];
