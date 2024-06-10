@@ -55,7 +55,7 @@ E ah, você pode usar [essa planilha](https://docs.google.com/spreadsheets/d/1Rp
 | 4. | Coleta de dados na Web | Como coletar, armazenar e organizar dados coletados a aprtir de web scraping e APIs | [Twitch](https://www.twitch.tv/collections/qDR-u9gMwBeptg) / [YouTube](https://www.youtube.com/playlist?list=PLvlkVRRKOYFSrkOL-Bze-42pTdJIAj0_h) | Grátis | [GitHub](https://github.com/TeoMeWhy/data-collect)
 | 5. | Estatística Básica | Principais tópicos de Estatística aplicada à ciência de dados e Analytics | [Twitch](https://www.twitch.tv/collections/6sM5PdmdxhcS3w) / [YouTube](https://www.youtube.com/playlist?list=PLvlkVRRKOYFSWIyhwq4Nu8sNd_GfOi1tj) | Grátis | - |
 | 6. | Machine Learning para Pôneis | Curso de Introdução à Machine Learning com as principais técnicas de Classificação e Regressão | [Twitch](https://www.twitch.tv/collections/B7O8mo0SzxcXnA) / [YouTube](https://www.youtube.com/playlist?list=PLvlkVRRKOYFTXcpttQSZmv1wDg7F3uH7o) | Grátis | [Github](https://github.com/TeoMeWhy/ml-4-poneis) |
-| 7. | Data Science e Pontos | Projeto completo de Data Science construindo um modelo de ML para perdição de Churn | [Twitch](https://www.twitch.tv/collections/jg9itHOO1ReLcw) / [YouTube](https://www.youtube.com/playlist?list=PLvlkVRRKOYFQOkwDvfgCvKi9-I1jQXiy7) | Membros e Subs | [GitHub](https://github.com/TeoMeWhy/ds-points) |
+| 7. | Data Science e Pontos | Projeto completo de Data Science construindo um modelo de ML para predição de Churn | [Twitch](https://www.twitch.tv/collections/jg9itHOO1ReLcw) / [YouTube](https://www.youtube.com/playlist?list=PLvlkVRRKOYFQOkwDvfgCvKi9-I1jQXiy7) | Membros e Subs | [GitHub](https://github.com/TeoMeWhy/ds-points) |
 
 
 ## Temas
