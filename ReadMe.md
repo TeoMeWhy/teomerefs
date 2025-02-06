@@ -200,23 +200,40 @@ Alguns perfis para acompanhar
 |Nome|Instagram|LinkedIn|Twitter|YouTube|Twitch|
 |:----:|:---------:|:--------:|:-------:|:-------:|:------:|
 |Adriana Silva|[@dri_chispirita](https://www.instagram.com/dri_chispirita/)|[/adrianamms](https://www.linkedin.com/in/adrianamms/)|-| [@asnrocks](https://www.youtube.com/@asnrocks)|-|
+| Ana Carolina Lessa 🎩 |-| [Ana Carolina Lessa 🎩](https://www.linkedin.com/in/ACoAACfbBCkBO6_ng4alMtWooz5ZxkrA6XooD6k) |-|-|-|
+| Andressa Freires |-| [Andressa Freires](https://www.linkedin.com/in/ACoAACKaFcYBU4JAfS_ek8dK8tXo-nNXrjjPASg) |-|-|-|
+| Andreza Rocha |-| [Andreza Rocha](https://www.linkedin.com/in/ACoAAAZZQlgBgaTbas7jwS8JshLDFXnk6VbN2FM) |-|-|-|
 |António Júnior|[@mentordedados](https://www.instagram.com/mentordedados/)|[/acsjunior](https://www.linkedin.com/in/acsjunior/)|-|[@mentordedados](https://www.youtube.com/@mentordedados)|-|
 |Athos Damiani|[@athosdamiani](https://www.instagram.com/athosdamiani/)|[/athosdamiani](https://www.linkedin.com/in/athosdamiani/)|[@athos_damiani](https://twitter.com/athos_damiani)|-|-|
+| Beatriz Milz |-| [Beatriz Milz](https://www.linkedin.com/in/ACoAABkT9t8BLdRqC-j4cRFKIoNW2EYPRAmCACk) |-|-|-|
 |Bruno Rocha|[@rochacbruno](https://www.instagram.com/rochacbruno/)|[/rochacbruno](https://www.linkedin.com/in/rochacbruno/)|[@rochacbruno](https://twitter.com/rochacbruno)|[@rochacbruno](https://www.youtube.com/@rochacbruno)|-|
 |CodeShow|[@codeshowbr](https://instagram.com/codeshowbr)|[/company/codeshow](https://www.linkedin.com/company/codeshow/)|[@codeshowbr](https://twitter.com/codeshowbr)|[@codeshowbr](https://youtube.com/CodeShowBR)|[@codeshow](https://twitch.tv/codeshow)|
+| Eloisa Estrela Oliveira |-| [Eloisa Estrela Oliveira](https://www.linkedin.com/in/ACoAACDT80sByEcg28RPn834lg7s8DtzwursE9E) |-|-|-|
+| Fernanda Face |-| [Fernanda Face](https://www.linkedin.com/in/ACoAADWEir8BJQUaMwohG08mz_VOsovv2Ji4Apg) |-|-|-|
+| Fernanda Maciel, Ph.D. |-| [Fernanda Maciel, Ph.D.](https://www.linkedin.com/in/ACoAAAjAW9sB0le1rPol8Xtamp120SFnyA5sa74) |-|-|-|
 |Filipe Deschamps|[@filipedeschamps](https://www.instagram.com/filipedeschamps/)|[/filipedeschamps](https://www.linkedin.com/in/filipedeschamps/)|[@FilipeDeschamps](https://twitter.com/FilipeDeschamps)|[@FilipeDeschamps](https://www.youtube.com/@FilipeDeschamps)|-|
 |Gabs Ferreira|[@o_gabsferreira](https://www.instagram.com/o_gabsferreira/)|[/gabsferreira](https://www.linkedin.com/in/gabsferreira/)|[@o_gabsferreira](https://twitter.com/o_gabsferreira)|[@GabsFerreira](https://www.youtube.com/@GabsFerreira)|-|
 |Glaucia Lemos|[@glaucia.lemos.dev](https://www.instagram.com/glaucia.lemos.dev/)|[/glaucialemos](https://www.linkedin.com/in/glaucialemos/)|[@glaucia_lemos86](https://twitter.com/glaucia_lemos86)|[@GlauciaLemos](https://www.youtube.com/@GlauciaLemos)|-|
+| Isabela Marinho Rangel |-| [Isabela Marinho Rangel](https://www.linkedin.com/in/ACoAAAdIm9YBK7omhaCJtEAFyNg3TJegcl6Yk1E) |-|-|-|
 |Jayme Anchante|-|[/jaymeanchante](https://www.linkedin.com/in/jaymeanchante/)|-|-|-|
+| Jeniffer Frigo |-| [Jeniffer Frigo](https://www.linkedin.com/in/ACoAACUTrikB0rQmeIZGk0dWJsZeyWutfdQLRzs) |-|-|-|
 |Joao Paulo Nogueira|-|[/joaopaulonogueira](https://www.linkedin.com/in/joaopaulonogueira/)|[@joaopcnogueira](https://twitter.com/joaopcnogueira)|-|-|
 |Julio Trecenti|-|[/jtrecenti](https://www.linkedin.com/in/jtrecenti/)|[@jtrecenti](https://twitter.com/jtrecenti)|[@CursoR6](https://www.youtube.com/@CursoR6)|-|
+| Karinne Cristina |-| [Karinne Cristina](https://www.linkedin.com/in/ACoAACI4JcIB47jUkvfuwh4eTsmcIP8NM3n4y7U) |-|-|-|
 |Kizzy Terra|[@kizzy_terra](https://www.instagram.com/kizzy_terra/)|[/kizzyterra](https://www.linkedin.com/in/kizzyterra/)|[@kizzy_terra](https://twitter.com/kizzy_terra)|[@pgdinamica](https://www.youtube.com/@pgdinamica)|-|
+| Laura Damaceno de Almeida |-| [Laura Damaceno de Almeida](https://www.linkedin.com/in/ACoAACcolvQBjHhSvJnvdUgvuwGrlyYpTNcMR1E) |-|-|-|
 |Lucas Montano|[@lucasmontano](https://www.instagram.com/lucasmontano/)|[/lucasmontano](https://www.linkedin.com/in/lucasmontano/)|[@lucas_montano](https://twitter.com/lucas_montano)|[@LucasMontano](https://www.youtube.com/@LucasMontano)|-|
-Mario Filho|[@mariofilhoml](https://www.instagram.com/mariofilhoml/)|[/mariofilho](https://www.linkedin.com/in/mariofilho/)|[@MarioFilhoCom](https://twitter.com/MarioFilhoCom)|[@MarioFilhoML](https://www.youtube.com/@MarioFilhoML)|-|
+| Marcella Galeotti |-| [Marcella Galeotti](https://www.linkedin.com/in/ACoAACFC3tUBzzvc-Tzqe8mmo6vg4l5IYWDTpu8) |-|-|-|
+|Mario Filho|[@mariofilhoml](https://www.instagram.com/mariofilhoml/)|[/mariofilho](https://www.linkedin.com/in/mariofilho/)|[@MarioFilhoCom](https://twitter.com/MarioFilhoCom)|[@MarioFilhoML](https://www.youtube.com/@MarioFilhoML)|-|
 |Meigarom Lopes|-|[/meigarom](https://www.linkedin.com/in/meigarom/?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAAazy44B0cQNwp2I0oq0SIVQRGDQseeySkg)|[@Meigarom](https://twitter.com/Meigarom)|[@ComunidadeDS](https://www.youtube.com/@ComunidadeDS)|-|
+| Mulheres em Dados |-| [Mulheres em Dados](https://www.linkedin.com/company/mulheresemdados/) |-|-|-|
+| PyLadies São Paulo |-| [PyLadies São Paulo](https://www.linkedin.com/company/pyladiessp/) |-|-|-|
 |Raniere Ramos|[@oestatistico](https://www.instagram.com/oestatistico/)|[/raniereramos](https://www.linkedin.com/in/raniereramos/)|[@oestatisticoweb](https://twitter.com/oestatisticoweb)|-|-|
+| Renata Biaggi |-| [Renata Biaggi](https://www.linkedin.com/in/ACoAABwY3moBbU_maSe2cGIWQT4QM4Kim55RwII) |-|-|-|
 |Téo Calvo|[@teo.calvo](https://www.instagram.com/teo.calvo)|[/teocalvo](https://www.linkedin.com/in/teocalvo/)|[@TeoCalvo](https://twitter.com/TeoCalvo)|[@teomewhy](https://www.youtube.com/@teomewhy)|[/teomewhy](https://www.twitch.tv/teomewhy)|
 |Thiago Marques|-|[/thiagoestatidados](https://www.linkedin.com/in/thiagoestatidados/)|-|
+
+
 
 **[⬆ Voltar ao início](#teo-me-refs)**
 ## Podcasts
