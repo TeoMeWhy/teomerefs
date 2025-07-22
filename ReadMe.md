@@ -231,6 +231,8 @@ Alguns perfis para acompanhar
 | Renata Biaggi |-| [Renata Biaggi](https://www.linkedin.com/in/ACoAABwY3moBbU_maSe2cGIWQT4QM4Kim55RwII) |-|-|-|
 |Téo Calvo|[@teo.calvo](https://www.instagram.com/teo.calvo)|[/teocalvo](https://www.linkedin.com/in/teocalvo/)|[@TeoCalvo](https://twitter.com/TeoCalvo)|[@teomewhy](https://www.youtube.com/@teomewhy)|[/teomewhy](https://www.twitch.tv/teomewhy)|
 |Thiago Marques|-|[/thiagoestatidados](https://www.linkedin.com/in/thiagoestatidados/)|-|
+| Anwar Hermuche | [@anwar.hermuche](https://www.instagram.com/anwar.hermuche?igsh=MWhndDRuMWo2cmtkcQ==) | [anwar.hermuche](https://www.linkedin.com/search/results/all/?fetchDeterministicClustersOnly=true&heroEntityKey=urn%3Ali%3Afsd_profile%3AACoAAD7oCkAB7ZeWbpaJQHPcSE8C3jb-jFc7s8s&keywords=anwar%20hermuche&origin=RICH_QUERY_SUGGESTION&position=0&searchId=693ee0db-2cc0-4075-b48f-e1aad84acce1&sid=q93&spellCorrectionEnabled=false) |-| [@anwarhermuche](https://www.youtube.com/@anwarhermuche) |-|
+
 
 
 
